@@ -1,0 +1,1839 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8"/>
+    <title>Home Page | Coca-Cola US</title>
+    
+    
+    <meta name="description" content="Explore ways you can be closer to the ones you love with meals worth sharing, festive playlists, and more holiday magic from Coke®. Shop all Coca-Cola sodas here."/>
+    <meta name="template" content="homepage"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    
+
+    
+        <script defer="defer" type="text/javascript" src="https://rum.hlx.page/.rum/@adobe/helix-rum-js@%5E2/dist/rum-standalone.js" data-routing="program=58902,environment=658605,tier=publish"></script>
+<link as="style" href="https://www.coca-cola.com/onexp-theme/66773cb5ce1432f713066cf1f808dfc6371bee24475f8988ead42cdfa68c7edb/theme.css" rel="preload stylesheet" type="text/css">
+    
+        
+    
+
+    <!-- OneTrust has to be loaded early due to the performance reason -->
+    
+        
+            <!-- OneTrust Cookies Consent Notice start -->  
+<script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" fetchpriority="high" data-document-language="true" type="text/javascript" charset="UTF-8" data-domain-script="0c78f894-f494-492b-8b21-a0bf3c6bfdfd"></script> 
+<script type="text/javascript"> 
+function OptanonWrapper() { 
+    var n = document.documentElement; 
+    var isCookieBannerV2 = document.body.classList.contains("cookie-banner-v2"); 
+ 
+    function e() { 
+        var e = document.getElementById("accept-recommended-btn-handler"); 
+        document.getElementsByClassName("ot-btn-container")[0]?.prepend(e); 
+        n.classList.add("ot-modal-open"); 
+        var t = document.getElementById("close-pc-btn-handler"), 
+            c = document.getElementById("accept-recommended-btn-handler"), 
+            s = document.getElementsByClassName("save-preference-btn-handler")[0], 
+            r = document.getElementsByClassName("ot-pc-refuse-all-handler")[0], 
+            o = document.getElementsByClassName("ot-fade-in")[0]; 
+        t?.addEventListener("click", function (e) { 
+            n.classList.remove("ot-modal-open"); 
+        }); 
+        c?.addEventListener("click", function (e) { 
+            n.classList.remove("ot-modal-open"); 
+        }); 
+        s?.addEventListener("click", function (e) { 
+            n.classList.remove("ot-modal-open"); 
+        }); 
+        r?.addEventListener("click", function (e) { 
+            n.classList.remove("ot-modal-open"); 
+        }); 
+        o?.addEventListener("click", function (e) { 
+            t?.click(), n.classList.remove("ot-modal-open"); 
+        }); 
+    } 
+ 
+    function initCookieBannerV2() { 
+        const acceptAllBtn = document.querySelector("#onetrust-accept-btn-handler"); 
+        const rejectAllBtn = document.querySelector("#onetrust-reject-all-handler"); 
+        const acceptRecommendedBtn = document.querySelector("#accept-recommended-btn-handler");  
+        const btnContainer = document.querySelector(".ot-btn-container"); 
+ 
+        n.classList.add("ot-modal-open");  
+ 
+        if (btnContainer && acceptRecommendedBtn) { 
+            btnContainer.insertAdjacentElement("afterbegin", acceptRecommendedBtn);  
+        } 
+ 
+        acceptAllBtn?.addEventListener("click", () => { 
+            n.classList.remove("ot-modal-open"); 
+        }); 
+        rejectAllBtn?.addEventListener("click", () => { 
+            n.classList.remove("ot-modal-open"); 
+        }); 
+    } 
+ 
+    if (!Optanon.IsAlertBoxClosed()) { 
+        if(isCookieBannerV2) { 
+            initCookieBannerV2(); 
+        } 
+    } else { 
+        n.classList.remove("ot-modal-open"); 
+    } 
+ 
+    if (0 == Optanon.IsAlertBoxClosed() && !isCookieBannerV2) { 
+        Optanon.ToggleInfoDisplay(), e(); 
+    } else { 
+        var t = document.getElementsByClassName("ot-floating-button__open")[0]; 
+        (t.innerHTML = '<svg version="1.1" id="Layer_1" xmlns=http://www.w3.org/2000/svg xmlns:xlink=http://www.w3.org/1999/xlink x="0px" y="0px" viewBox="0 0 32 32" style="enable-background:new 0 0 32 32;" xml:space="preserve"><g><path class="st0" d="M29.67,7.41c-0.51,0-0.92-0.41-0.92-0.91c0-0.5,0.41-0.91,0.92-0.91C30.18,5.6,30.6,6,30.6,6.5 C30.6,7.01,30.18,7.41,29.67,7.41 M25.59,11.16c0.83,0,1.5-0.66,1.5-1.48c0-0.82-0.67-1.48-1.5-1.48c-0.83,0-1.5,0.66-1.5,1.48 C24.09,10.5,24.76,11.16,25.59,11.16 M32,13.88c0-0.5-0.41-0.91-0.92-0.91c-0.51,0-0.92,0.41-0.92,0.91c0,0.5,0.41,0.91,0.92,0.91 C31.59,14.79,32,14.38,32,13.88 M15.55,31.97c8.26,0,15.01-6.34,15.52-14.34c-1.88-0.49-3.35-1.98-3.78-3.87 c-3.11-0.16-5.58-2.69-5.58-5.79c0-0.26,0.02-0.52,0.05-0.77c-2.07-0.76-3.55-2.73-3.55-5.03c0-0.2,0.01-0.4,0.03-0.6 c-0.88-0.15-1.78-0.23-2.71-0.23C6.96,1.34,0,8.2,0,16.65C0,25.11,6.96,31.97,15.55,31.97 M22.72-0.03c-1.01,0-1.83,0.81-1.83,1.8 s0.82,1.8,1.83,1.8c1.01,0,1.83-0.81,1.83-1.8S23.73-0.03,22.72-0.03"/><path class="st1" d="M7.06,17.17c1.02,0,1.85,0.81,1.85,1.82c0,1.01-0.83,1.82-1.85,1.82c-1.02,0-1.85-0.81-1.85-1.82 C5.21,17.98,6.04,17.17,7.06,17.17 M10.76,8.46c-1.02,0-1.85,0.81-1.85,1.82c0,1.01,0.83,1.82,1.85,1.82 c1.02,0,1.85-0.81,1.85-1.82C12.6,9.28,11.78,8.46,10.76,8.46 M14.45,24.52c0-1-0.83-1.82-1.85-1.82c-1.02,0-1.85,0.81-1.85,1.82 c0,1,0.83,1.82,1.85,1.82C13.62,26.34,14.45,25.53,14.45,24.52 M18.23,12.33c-1.02,0-1.85,0.81-1.85,1.82 c0,1.01,0.83,1.82,1.85,1.82c1.02,0,1.85-0.81,1.85-1.82C20.07,13.14,19.25,12.33,18.23,12.33 M23.75,20.36 c-1.02,0-1.85,0.81-1.85,1.82c0,1.01,0.83,1.82,1.85,1.82c1.02,0,1.85-0.81,1.85-1.82C25.59,21.18,24.77,20.36,23.75,20.36"/></g></svg>'), 
+            t.addEventListener("click", function (n) { 
+                e(); 
+            }); 
+        var c = document.getElementsByClassName("ot-floating-button__close")[0]; 
+        (c.innerHTML = '<svg version="1.1" id="Layer_1" xmlns=http://www.w3.org/2000/svg xmlns:xlink=http://www.w3.org/1999/xlink x="0px" y="0px" viewBox="0 0 18 18" style="enable-background:new 0 0 18 18;" xml:space="preserve"><path class="st0" d="M12.27,9l5.05-5.05c0.9-0.9,0.9-2.37,0-3.27c-0.9-0.9-2.37-0.9-3.27,0L9,5.73L3.95,0.68 c-0.9-0.9-2.37-0.9-3.27,0s-0.9,2.37,0,3.27L5.73,9l-5.05,5.05c-0.9,0.9-0.9,2.37,0,3.27c0.9,0.9,2.37,0.9,3.27,0L9,12.27l5.05,5.05 c0.9,0.9,2.37,0.9,3.27,0c0.9-0.9,0.9-2.37,0-3.27L12.27,9z"/></svg>'), 
+            c.addEventListener("click", function (e) { 
+                n.classList.remove("ot-modal-open"); 
+            }); 
+    } 
+} 
+</script> 
+<!-- OneTrust Cookies Consent Notice end -->
+        
+        
+    
+
+    
+
+    
+
+    
+    
+
+    <meta name="cepVersion" content="1.1129.0"/>
+    <meta name="frontEndVersion" content="1.3287.0"/>
+    <meta name="publicationDate" content="2025-11-11T16:51:00Z"/>
+    
+    <meta name="thumbnailImage" content="/content/dam/onexp/us/en/homepage/ko-onexp-meta-image.jpg"/>
+    <meta name="thumbnailAlt" content="coca-cola real magic"/>
+    <meta name="contentType" content="Homepage"/>
+    
+    
+    
+    <meta name="siteSection" content="Homepage"/>
+    <meta name="instanceName" content="6fcddffcc8-fpvwc"/>
+    <meta name="xtndRecaptchaSiteKeyV3" content="6Lfe5b8kAAAAAItc37dlx65sVLiwPNekg84cNLzm"/>
+    
+
+    
+    
+
+    
+    
+
+    <!-- OpenGraph meta tags for Facebook -->
+    <meta property="og:title" content="Home Page | Coca-Cola US"/>
+    <meta property="og:description" content="Explore ways you can be closer to the ones you love with meals worth sharing, festive playlists, and more holiday magic from Coke®. Shop all Coca-Cola sodas here."/>
+    <meta property="og:image"/>
+    <meta property="og:image:alt" content="coca-cola real magic"/>
+    <meta property="og:url"/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:site_name"/>
+
+    <!-- TwitterCard meta tags -->
+    
+
+    <!-- PWA Configuration for iOS -->
+    
+<meta name="apple-mobile-web-app-capable" content="yes"/>
+<link rel="apple-touch-startup-image" media="screen and (device-width: 440px) and (device-height: 956px) and (-webkit-device-pixel-ratio: 3) and (orientation: landscape)" href="https://www.coca-cola.com/onexp-theme/66773cb5ce1432f713066cf1f808dfc6371bee24475f8988ead42cdfa68c7edb/resources/splash-screens/iPhone_16_Pro_Max_landscape.png"/>
+<link rel="apple-touch-startup-image" media="screen and (device-width: 402px) and (device-height: 874px) and (-webkit-device-pixel-ratio: 3) and (orientation: landscape)" href="https://www.coca-cola.com/onexp-theme/66773cb5ce1432f713066cf1f808dfc6371bee24475f8988ead42cdfa68c7edb/resources/splash-screens/iPhone_16_Pro_landscape.png"/>
+<link rel="apple-touch-startup-image" media="screen and (device-width: 430px) and (device-height: 932px) and (-webkit-device-pixel-ratio: 3) and (orientation: landscape)" href="https://www.coca-cola.com/onexp-theme/66773cb5ce1432f713066cf1f808dfc6371bee24475f8988ead42cdfa68c7edb/resources/splash-screens/iPhone_16_Pl__iPhone_15_Pro_Max__iPhone_15_Pl__iPhone_14_Pro_Max_land.png"/>
+<link rel="apple-touch-startup-image" media="screen and (device-width: 393px) and (device-height: 852px) and (-webkit-device-pixel-ratio: 3) and (orientation: landscape)" href="https://www.coca-cola.com/onexp-theme/66773cb5ce1432f713066cf1f808dfc6371bee24475f8988ead42cdfa68c7edb/resources/splash-screens/iPhone_16__iPhone_15_Pro__iPhone_15__iPhone_14_Pro_landscape.png"/>
+<link rel="apple-touch-startup-image" media="screen and (device-width: 428px) and (device-height: 926px) and (-webkit-device-pixel-ratio: 3) and (orientation: landscape)" href="https://www.coca-cola.com/onexp-theme/66773cb5ce1432f713066cf1f808dfc6371bee24475f8988ead42cdfa68c7edb/resources/splash-screens/iPhone_14_Plus__iPhone_13_Pro_Max__iPhone_12_Pro_Max_landscape.png"/>
+<link rel="apple-touch-startup-image" media="screen and (device-width: 390px) and (device-height: 844px) and (-webkit-device-pixel-ratio: 3) and (orientation: landscape)" href="https://www.coca-cola.com/onexp-theme/66773cb5ce1432f713066cf1f808dfc6371bee24475f8988ead42cdfa68c7edb/resources/splash-screens/iPhone_14__iPhone_13_Pro__iPhone_13__iPhone_12_Pro__iPhone_12_land.png"/>
+<link rel="apple-touch-startup-image" media="screen and (device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3) and (orientation: landscape)" href="https://www.coca-cola.com/onexp-theme/66773cb5ce1432f713066cf1f808dfc6371bee24475f8988ead42cdfa68c7edb/resources/splash-screens/iPhone_13_mi__iPhone_12_mi__iPhone_11_Pro__iPhone_XS__iPhone_X_land.png"/>
+<link rel="apple-touch-startup-image" media="screen and (device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 3) and (orientation: landscape)" href="https://www.coca-cola.com/onexp-theme/66773cb5ce1432f713066cf1f808dfc6371bee24475f8988ead42cdfa68c7edb/resources/splash-screens/iPhone_11_Pro_Max__iPhone_XS_Max_landscape.png"/>
+<link rel="apple-touch-startup-image" media="screen and (device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)" href="https://www.coca-cola.com/onexp-theme/66773cb5ce1432f713066cf1f808dfc6371bee24475f8988ead42cdfa68c7edb/resources/splash-screens/iPhone_11__iPhone_XR_landscape.png"/>
+<link rel="apple-touch-startup-image" media="screen and (device-width: 414px) and (device-height: 736px) and (-webkit-device-pixel-ratio: 3) and (orientation: landscape)" href="https://www.coca-cola.com/onexp-theme/66773cb5ce1432f713066cf1f808dfc6371bee24475f8988ead42cdfa68c7edb/resources/splash-screens/iPhone_8_Plus__iPhone_7_Plus__iPhone_6s_Plus__iPhone_6_Plus_landscape.png"/>
+<link rel="apple-touch-startup-image" media="screen and (device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)" href="https://www.coca-cola.com/onexp-theme/66773cb5ce1432f713066cf1f808dfc6371bee24475f8988ead42cdfa68c7edb/resources/splash-screens/iPhone_8__iPhone_7__iPhone_6s__iPhone_6__4.7__iPhone_SE_landscape.png"/>
+<link rel="apple-touch-startup-image" media="screen and (device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)" href="https://www.coca-cola.com/onexp-theme/66773cb5ce1432f713066cf1f808dfc6371bee24475f8988ead42cdfa68c7edb/resources/splash-screens/4__iPhone_SE__iPod_touch_5th_generation_and_later_landscape.png"/>
+<link rel="apple-touch-startup-image" media="screen and (device-width: 1032px) and (device-height: 1376px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)" href="https://www.coca-cola.com/onexp-theme/66773cb5ce1432f713066cf1f808dfc6371bee24475f8988ead42cdfa68c7edb/resources/splash-screens/13__iPad_Pro_M4_landscape.png"/>
+<link rel="apple-touch-startup-image" media="screen and (device-width: 1024px) and (device-height: 1366px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)" href="https://www.coca-cola.com/onexp-theme/66773cb5ce1432f713066cf1f808dfc6371bee24475f8988ead42cdfa68c7edb/resources/splash-screens/12.9__iPad_Pro_landscape.png"/>
+<link rel="apple-touch-startup-image" media="screen and (device-width: 834px) and (device-height: 1210px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)" href="https://www.coca-cola.com/onexp-theme/66773cb5ce1432f713066cf1f808dfc6371bee24475f8988ead42cdfa68c7edb/resources/splash-screens/11__iPad_Pro_M4_landscape.png"/>
+<link rel="apple-touch-startup-image" media="screen and (device-width: 834px) and (device-height: 1194px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)" href="https://www.coca-cola.com/onexp-theme/66773cb5ce1432f713066cf1f808dfc6371bee24475f8988ead42cdfa68c7edb/resources/splash-screens/11__iPad_Pro__10.5__iPad_Pro_landscape.png"/>
+<link rel="apple-touch-startup-image" media="screen and (device-width: 820px) and (device-height: 1180px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)" href="https://www.coca-cola.com/onexp-theme/66773cb5ce1432f713066cf1f808dfc6371bee24475f8988ead42cdfa68c7edb/resources/splash-screens/10.9__iPad_Air_landscape.png"/>
+<link rel="apple-touch-startup-image" media="screen and (device-width: 834px) and (device-height: 1112px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)" href="https://www.coca-cola.com/onexp-theme/66773cb5ce1432f713066cf1f808dfc6371bee24475f8988ead42cdfa68c7edb/resources/splash-screens/10.5__iPad_Air_landscape.png"/>
+<link rel="apple-touch-startup-image" media="screen and (device-width: 810px) and (device-height: 1080px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)" href="https://www.coca-cola.com/onexp-theme/66773cb5ce1432f713066cf1f808dfc6371bee24475f8988ead42cdfa68c7edb/resources/splash-screens/10.2__iPad_landscape.png"/>
+<link rel="apple-touch-startup-image" media="screen and (device-width: 768px) and (device-height: 1024px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)" href="https://www.coca-cola.com/onexp-theme/66773cb5ce1432f713066cf1f808dfc6371bee24475f8988ead42cdfa68c7edb/resources/splash-screens/9.7__iPad_Pro__7.9__iPad_mini__9.7__iPad_Air__9.7__iPad_landscape.png"/>
+<link rel="apple-touch-startup-image" media="screen and (device-width: 744px) and (device-height: 1133px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)" href="https://www.coca-cola.com/onexp-theme/66773cb5ce1432f713066cf1f808dfc6371bee24475f8988ead42cdfa68c7edb/resources/splash-screens/8.3__iPad_Mini_landscape.png"/>
+<link rel="apple-touch-startup-image" media="screen and (device-width: 440px) and (device-height: 956px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)" href="https://www.coca-cola.com/onexp-theme/66773cb5ce1432f713066cf1f808dfc6371bee24475f8988ead42cdfa68c7edb/resources/splash-screens/iPhone_16_Pro_Max_portrait.png"/>
+<link rel="apple-touch-startup-image" media="screen and (device-width: 402px) and (device-height: 874px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)" href="https://www.coca-cola.com/onexp-theme/66773cb5ce1432f713066cf1f808dfc6371bee24475f8988ead42cdfa68c7edb/resources/splash-screens/iPhone_16_Pro_portrait.png"/>
+<link rel="apple-touch-startup-image" media="screen and (device-width: 430px) and (device-height: 932px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)" href="https://www.coca-cola.com/onexp-theme/66773cb5ce1432f713066cf1f808dfc6371bee24475f8988ead42cdfa68c7edb/resources/splash-screens/iPhone_16_Pl__iPhone_15_Pro_Max__iPhone_15_Pl__iPhone_14_Pro_Max_port.png"/>
+<link rel="apple-touch-startup-image" media="screen and (device-width: 393px) and (device-height: 852px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)" href="https://www.coca-cola.com/onexp-theme/66773cb5ce1432f713066cf1f808dfc6371bee24475f8988ead42cdfa68c7edb/resources/splash-screens/iPhone_16__iPhone_15_Pro__iPhone_15__iPhone_14_Pro_portrait.png"/>
+<link rel="apple-touch-startup-image" media="screen and (device-width: 428px) and (device-height: 926px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)" href="https://www.coca-cola.com/onexp-theme/66773cb5ce1432f713066cf1f808dfc6371bee24475f8988ead42cdfa68c7edb/resources/splash-screens/iPhone_14_Plus__iPhone_13_Pro_Max__iPhone_12_Pro_Max_portrait.png"/>
+<link rel="apple-touch-startup-image" media="screen and (device-width: 390px) and (device-height: 844px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)" href="https://www.coca-cola.com/onexp-theme/66773cb5ce1432f713066cf1f808dfc6371bee24475f8988ead42cdfa68c7edb/resources/splash-screens/iPhone_14__iPhone_13_Pro__iPhone_13__iPhone_12_Pro__iPhone_12_port.png"/>
+<link rel="apple-touch-startup-image" media="screen and (device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)" href="https://www.coca-cola.com/onexp-theme/66773cb5ce1432f713066cf1f808dfc6371bee24475f8988ead42cdfa68c7edb/resources/splash-screens/iPhone_13_mi__iPhone_12_mi__iPhone_11_Pro__iPhone_XS__iPhone_X_port.png"/>
+<link rel="apple-touch-startup-image" media="screen and (device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)" href="https://www.coca-cola.com/onexp-theme/66773cb5ce1432f713066cf1f808dfc6371bee24475f8988ead42cdfa68c7edb/resources/splash-screens/iPhone_11_Pro_Max__iPhone_XS_Max_portrait.png"/>
+<link rel="apple-touch-startup-image" media="screen and (device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)" href="https://www.coca-cola.com/onexp-theme/66773cb5ce1432f713066cf1f808dfc6371bee24475f8988ead42cdfa68c7edb/resources/splash-screens/iPhone_11__iPhone_XR_portrait.png"/>
+<link rel="apple-touch-startup-image" media="screen and (device-width: 414px) and (device-height: 736px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)" href="https://www.coca-cola.com/onexp-theme/66773cb5ce1432f713066cf1f808dfc6371bee24475f8988ead42cdfa68c7edb/resources/splash-screens/iPhone_8_Plus__iPhone_7_Plus__iPhone_6s_Plus__iPhone_6_Plus_portrait.png"/>
+<link rel="apple-touch-startup-image" media="screen and (device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)" href="https://www.coca-cola.com/onexp-theme/66773cb5ce1432f713066cf1f808dfc6371bee24475f8988ead42cdfa68c7edb/resources/splash-screens/iPhone_8__iPhone_7__iPhone_6s__iPhone_6__4.7__iPhone_SE_portrait.png"/>
+<link rel="apple-touch-startup-image" media="screen and (device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)" href="https://www.coca-cola.com/onexp-theme/66773cb5ce1432f713066cf1f808dfc6371bee24475f8988ead42cdfa68c7edb/resources/splash-screens/4__iPhone_SE__iPod_touch_5th_generation_and_later_portrait.png"/>
+<link rel="apple-touch-startup-image" media="screen and (device-width: 1032px) and (device-height: 1376px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)" href="https://www.coca-cola.com/onexp-theme/66773cb5ce1432f713066cf1f808dfc6371bee24475f8988ead42cdfa68c7edb/resources/splash-screens/13__iPad_Pro_M4_portrait.png"/>
+<link rel="apple-touch-startup-image" media="screen and (device-width: 1024px) and (device-height: 1366px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)" href="https://www.coca-cola.com/onexp-theme/66773cb5ce1432f713066cf1f808dfc6371bee24475f8988ead42cdfa68c7edb/resources/splash-screens/12.9__iPad_Pro_portrait.png"/>
+<link rel="apple-touch-startup-image" media="screen and (device-width: 834px) and (device-height: 1210px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)" href="https://www.coca-cola.com/onexp-theme/66773cb5ce1432f713066cf1f808dfc6371bee24475f8988ead42cdfa68c7edb/resources/splash-screens/11__iPad_Pro_M4_portrait.png"/>
+<link rel="apple-touch-startup-image" media="screen and (device-width: 834px) and (device-height: 1194px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)" href="https://www.coca-cola.com/onexp-theme/66773cb5ce1432f713066cf1f808dfc6371bee24475f8988ead42cdfa68c7edb/resources/splash-screens/11__iPad_Pro__10.5__iPad_Pro_portrait.png"/>
+<link rel="apple-touch-startup-image" media="screen and (device-width: 820px) and (device-height: 1180px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)" href="https://www.coca-cola.com/onexp-theme/66773cb5ce1432f713066cf1f808dfc6371bee24475f8988ead42cdfa68c7edb/resources/splash-screens/10.9__iPad_Air_portrait.png"/>
+<link rel="apple-touch-startup-image" media="screen and (device-width: 834px) and (device-height: 1112px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)" href="https://www.coca-cola.com/onexp-theme/66773cb5ce1432f713066cf1f808dfc6371bee24475f8988ead42cdfa68c7edb/resources/splash-screens/10.5__iPad_Air_portrait.png"/>
+<link rel="apple-touch-startup-image" media="screen and (device-width: 810px) and (device-height: 1080px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)" href="https://www.coca-cola.com/onexp-theme/66773cb5ce1432f713066cf1f808dfc6371bee24475f8988ead42cdfa68c7edb/resources/splash-screens/10.2__iPad_portrait.png"/>
+<link rel="apple-touch-startup-image" media="screen and (device-width: 768px) and (device-height: 1024px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)" href="https://www.coca-cola.com/onexp-theme/66773cb5ce1432f713066cf1f808dfc6371bee24475f8988ead42cdfa68c7edb/resources/splash-screens/9.7__iPad_Pro__7.9__iPad_mini__9.7__iPad_Air__9.7__iPad_portrait.png"/>
+<link rel="apple-touch-startup-image" media="screen and (device-width: 744px) and (device-height: 1133px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)" href="https://www.coca-cola.com/onexp-theme/66773cb5ce1432f713066cf1f808dfc6371bee24475f8988ead42cdfa68c7edb/resources/splash-screens/8.3__iPad_Mini_portrait.png"/>
+
+
+
+    
+    <script async src="/etc.clientlibs/cep/clientlibs/clientlib-cwr.lc-085b194b52d77cc30f6cc60ab771e406-lc.min.js"></script>
+
+    <script>
+        (function (n, i, v, r, c, x) {
+            x = window.AwsRumClient = {q: [], n: n, i: i, v: v, r: r, c: c};
+            window[n] = function (c, p) {
+                x.q.push({c: c, p: p});
+            };
+        })(
+            "cwr",
+            "e663ab94-8a97-4236-90ca-2ad1b864147a",
+            "1.0.0",
+            "us-east-1",
+            {
+                sessionSampleRate: 0.05,
+                guestRoleArn: "arn:aws:iam::971536809886:role/RUM-Monitor-us-east-1-971536809886-1692815399861-Unauth",
+                identityPoolId: "us-east-1:f715f9dd-f502-422b-bb4f-e1471234deb4",
+                endpoint: "https://dataplane.rum.us-east-1.amazonaws.com",
+                telemetries: [
+                    [
+                        'http',
+                        {
+                            urlsToExclude: "aemform.af.prefilldata.json,/content/forms/af,/libs/granite/csrf/token.json,analytics.google.com,doubleclick.net,google-analytics.com".length > 0 ? "aemform.af.prefilldata.json,/content/forms/af,/libs/granite/csrf/token.json,analytics.google.com,doubleclick.net,google-analytics.com".split(',').map(error => new RegExp(error)) : []
+                        }
+                    ],
+                    [
+                        "errors",
+                        {
+                            ignore: (event, errorsToIgnore = "Object Not Found Matching Id") => {
+                                if (event && errorsToIgnore.length > 0) {
+                                    const regexpRules = errorsToIgnore.split(',').map(error => new RegExp(error));
+                                    return regexpRules.some(rule => rule.test(event.message || event.reason));
+                                }
+                                return false;
+                            }
+                        }
+                    ],
+                     "performance",
+                ],
+                allowCookies: false,
+                enableXRay: true
+            }
+        );
+
+        window.cep = window.cep || {};
+        window.cep.reportRumError = (parameters) => {
+            if (cwr !== undefined) {
+                const record = {
+                    type: 'com.amazon.rum.js_error_event',
+                    data: { version: '1.0.0', type: 'Error', ...parameters }
+                };
+
+                cwr('recordEvent', record);
+                console.error(record.data);
+            } else {
+                console.error("RUM Error when recording custom event - cwr is undefined.");
+            }
+        }
+
+        document.addEventListener("securitypolicyviolation", (e) => {
+            window.cep.reportRumError({
+                message: "Security Policy Violation Error",
+                stack: "Security Policy Violation Error. Blocked URI: " + e.blockedURI + ", Violated Directive: " + e.violatedDirective
+            });
+        });
+
+    </script>
+
+
+    
+    
+<link rel="canonical" href="https://www.coca-cola.com/us/en"/>
+
+
+    
+
+<script src="https://cdn.global.gcds.coke.com/naou/sdk/latest.js?v5" crossorigin="anonymous"></script>
+
+
+
+
+    
+        <!-- Google Tag Manager - Consent Mode V2 ---> 
+<script> 
+window.googleConsentModeV2= false; 
+console.log('Consent Mode V2 ' + (window.googleConsentModeV2 ? 'enabled' : 'disabled')); 
+</script> 
+<!-- End Google Tag Manager - Consent Mode V2 --->
+    
+    <!-- Google Tag Manager --> 
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': 
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], 
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= 
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); 
+})(window,document,'script','dataLayer','GTM-NBWPCZW');</script> 
+<!-- End Google Tag Manager -->
+
+
+<script type="text/javascript">
+    const CepDataLayer = {
+        push: (args) => {
+            if (window.adobeDataLayer) {
+                adobeDataLayer.push(args);
+            }
+            if (window.dataLayer) {
+                dataLayer.push(args);
+            }
+        }
+    }
+</script>
+
+<link rel="apple-touch-icon" sizes="180x180" href="https://www.coca-cola.com/onexp-theme/66773cb5ce1432f713066cf1f808dfc6371bee24475f8988ead42cdfa68c7edb/resources/favicons/apple-touch-icon.png"/>
+<link rel="icon" type="image/png" sizes="32x32" href="https://www.coca-cola.com/onexp-theme/66773cb5ce1432f713066cf1f808dfc6371bee24475f8988ead42cdfa68c7edb/resources/favicons/favicon-32x32.png"/>
+<link rel="icon" type="image/png" sizes="16x16" href="https://www.coca-cola.com/onexp-theme/66773cb5ce1432f713066cf1f808dfc6371bee24475f8988ead42cdfa68c7edb/resources/favicons/favicon-16x16.png"/>
+<link rel="mask-icon" href="https://www.coca-cola.com/onexp-theme/66773cb5ce1432f713066cf1f808dfc6371bee24475f8988ead42cdfa68c7edb/resources/favicons/safari-pinned-tab.svg" color="#000000"/>
+
+
+
+
+<link rel="manifest" href="/manifest-us-en.json"/>
+
+    <link class="user-onboarding" rel="stylesheet" data-href="https://www.coca-cola.com/onexp-theme/66773cb5ce1432f713066cf1f808dfc6371bee24475f8988ead42cdfa68c7edb/user-onboarding.css"/>
+    <script data-src="https://www.coca-cola.com/onexp-theme/66773cb5ce1432f713066cf1f808dfc6371bee24475f8988ead42cdfa68c7edb/user-onboarding.js" class="user-onboarding" defer type="text/javascript"></script>
+    <script src="https://www.google.com/recaptcha/api.js?render=6Lfe5b8kAAAAAItc37dlx65sVLiwPNekg84cNLzm"></script>
+
+
+
+
+    
+    
+    
+
+    
+
+    
+    
+    <link rel="stylesheet" href="/etc.clientlibs/onexp/clientlibs/clientlib-base.lc-123d3f370316a0c69df82281c7643d34-lc.min.css" type="text/css">
+
+
+    
+    
+    <script async src="/etc.clientlibs/core/wcm/components/commons/datalayer/v2/clientlibs/core.wcm.components.commons.datalayer.v2.lc-1e0136bad0acfb78be509234578e44f9-lc.min.js"></script>
+
+
+    
+    <script async src="/etc.clientlibs/core/wcm/components/commons/datalayer/acdl/core.wcm.components.commons.datalayer.acdl.lc-bf921af342fd2c40139671dbf0920a1f-lc.min.js"></script>
+
+
+
+    
+    <style id="design-token" data-brand-expression="★-the-coca-cola-company">
+        :root,.brand-colors{--color-icon-action-main-default:#000000;--color-icon-action-main-disabled:#6c6c6c;--color-icon-action-main-hover:#353535;--color-icon-action-main-pressed:#4f4f4f;--color-icon-action-on_brand-primary-default:#ffffff;--color-icon-action-on_brand-primary-disabled:#bdbdbd;--color-icon-action-on_brand-primary-hover:#eeeeee;--color-icon-action-on_brand-primary-pressed:#d5d5d5;--color-icon-action-on_brand-secondary-default:#000000;--color-icon-action-on_brand-secondary-disabled:#6c6c6c;--color-icon-action-on_brand-secondary-hover:#353535;--color-icon-action-on_brand-secondary-pressed:#4f4f4f;--color-icon-brand-primary-regular:#ea0000;--color-icon-brand-secondary-regular:#ffffff;--color-icon-component-footer-action-default:#ffffff;--color-icon-component-footer-action-hover:#d5d5d5;--color-icon-component-footer-action-pressed:#a5a5a5;--color-icon-component-footer-neutral-regular:#ffffff;--color-icon-component-illustration-brand-primary:#ea0000;--color-icon-component-illustration-brand-secondary:#ffffff;--color-icon-component-input-critical:#bf1004;--color-icon-component-input-default:#000000;--color-icon-component-input-positive:#1d6e17;--color-icon-component-nav-action-default:#000000;--color-icon-component-nav-action-disabled:#6c6c6c;--color-icon-component-nav-action-hover:#4f4f4f;--color-icon-component-nav-action-pressed:#a5a5a5;--color-icon-component-nav-neutral-main-default:#000000;--color-icon-component-nav-neutral-main-disabled:#6c6c6c;--color-icon-component-nav-neutral-on_button-default:#ffffff;--color-icon-component-nav-neutral-on_button-disabled:#6c6c6c;--color-icon-neutral-main-regular-default:#000000;--color-icon-neutral-main-regular-disabled:#6c6c6c;--color-icon-neutral-main-subtle-default:#4f4f4f;--color-icon-neutral-on_brand-primary-default:#ffffff;--color-icon-neutral-on_brand-primary-disabled:#bdbdbd;--color-icon-neutral-on_brand-secondary-default:#000000;--color-icon-neutral-on_brand-secondary-disabled:#6c6c6c;--color-icon-neutral-on_button-neutral-default:#ffffff;--color-icon-neutral-on_button-neutral-disabled:#6c6c6c;--color-icon-neutral-on_button-primary-default:#000000;--color-icon-neutral-on_button-primary-disabled:#bdbdbd;--color-icon-neutral-on_button-secondary-default:#ffffff;--color-icon-neutral-on_button-secondary-disabled:#6c6c6c;--color-icon-status-critical:#bf1004;--color-icon-status-info:#0048ff;--color-icon-status-positive:#1d6e17;--color-icon-status-warning:#725d27;--color-shadow-interactive-hover:#00000052;--color-shadow-neutral-regular:#0000001f;--color-stroke-action-default:#000000;--color-stroke-brand-primary-default:#000000;--color-stroke-brand-primary-subtle:#4f4f4f;--color-stroke-brand-secondary-default:#ffffff;--color-stroke-brand-secondary-subtle:#d5d5d5;--color-stroke-component-footer-interactive-focus:#ffffff;--color-stroke-component-footer-neutral-regular:#ffffff;--color-stroke-component-footer-neutral-subtle:#d5d5d5;--color-stroke-component-input-field-active:#000000;--color-stroke-component-input-field-critical:#bf1004;--color-stroke-component-input-field-default:#000000;--color-stroke-component-input-field-hover:#4f4f4f;--color-stroke-component-input-field-positive:#1d6e17;--color-stroke-component-input-tag-subtle:#d5d5d5;--color-stroke-component-nav-interactive-active:#000000;--color-stroke-component-nav-interactive-default:#000000;--color-stroke-component-nav-interactive-focus:#000000;--color-stroke-component-nav-interactive-hover:#4f4f4f;--color-stroke-component-nav-neutral-main-regular:#000000;--color-stroke-component-nav-neutral-main-subtle:#d5d5d5;--color-stroke-component-nav-neutral-on_button-default:#000000;--color-stroke-component-nav-neutral-on_button-disabled:#6c6c6c;--color-stroke-interactive-main-active:#000000;--color-stroke-interactive-main-default:#000000;--color-stroke-interactive-main-disabled:#bdbdbd;--color-stroke-interactive-main-focus:#000000;--color-stroke-interactive-main-hover:#4f4f4f;--color-stroke-interactive-main-pressed:#a5a5a5;--color-stroke-interactive-on_brand-primary-focus:#ffffff;--color-stroke-interactive-on_brand-secondary-focus:#000000;--color-stroke-neutral-main-regular-default:#000000;--color-stroke-neutral-main-regular-disabled:#6c6c6c;--color-stroke-neutral-main-subtle-default:#d5d5d5;--color-stroke-neutral-on_brand-primary-default:#ffffff;--color-stroke-neutral-on_brand-primary-disabled:#bdbdbd;--color-stroke-neutral-on_brand-secondary-default:#000000;--color-stroke-neutral-on_brand-secondary-disabled:#6c6c6c;--color-stroke-neutral-on_button-neutral-default:#000000;--color-stroke-neutral-on_button-neutral-disabled:#6c6c6c;--color-stroke-neutral-on_button-primary-default:#ffffff;--color-stroke-neutral-on_button-primary-disabled:#bdbdbd;--color-stroke-neutral-on_button-secondary-default:#000000;--color-stroke-neutral-on_button-secondary-disabled:#6c6c6c;--color-stroke-status-critical:#bf1004;--color-stroke-status-info:#0048ff;--color-stroke-status-positive:#1d6e17;--color-stroke-status-warning:#725d27;--color-surface-action-alpha-main-active:#0000001f;--color-surface-action-alpha-main-default:#00000000;--color-surface-action-alpha-main-hover:#0000001f;--color-surface-action-alpha-main-pressed:#0000003d;--color-surface-action-alpha-on_brand-primary-default:#ffffff00;--color-surface-action-alpha-on_brand-primary-hover:#ffffff1f;--color-surface-action-alpha-on_brand-primary-pressed:#ffffff3d;--color-surface-action-alpha-on_brand-secondary-default:#00000000;--color-surface-action-alpha-on_brand-secondary-hover:#0000001f;--color-surface-action-alpha-on_brand-secondary-pressed:#0000003d;--color-surface-action-opaque-main-default:#000000;--color-surface-action-opaque-main-disabled:#bdbdbd;--color-surface-action-opaque-main-hover:#353535;--color-surface-action-opaque-main-pressed:#4f4f4f;--color-surface-action-opaque-on_brand-primary-default:#ffffff;--color-surface-action-opaque-on_brand-primary-disabled:#6c6c6c;--color-surface-action-opaque-on_brand-primary-hover:#d5d5d5;--color-surface-action-opaque-on_brand-primary-pressed:#a5a5a5;--color-surface-action-opaque-on_brand-secondary-default:#000000;--color-surface-action-opaque-on_brand-secondary-disabled:#bdbdbd;--color-surface-action-opaque-on_brand-secondary-hover:#353535;--color-surface-action-opaque-on_brand-secondary-pressed:#4f4f4f;--color-surface-brand-primary-regular:#000000;--color-surface-brand-secondary-regular:#ffffff;--color-surface-component-Input-dropdown-hover:#0000001f;--color-surface-component-Input-dropdown-pressed:#0000003d;--color-surface-component-Input-field-regular:#ffffff;--color-surface-component-footer-regular:#000000;--color-surface-component-footer-action-default:#ffffff00;--color-surface-component-footer-action-hover:#ffffff1f;--color-surface-component-footer-action-pressed:#ffffff3d;--color-surface-component-footer-neutral-regular:#000000;--color-surface-component-footer-neutral-subtle:#353535;--color-surface-component-live_badge-regular:#ff0000;--color-surface-component-nav-action-alpha-default:#00000000;--color-surface-component-nav-action-alpha-hover:#0000001f;--color-surface-component-nav-action-alpha-pressed:#0000003d;--color-surface-component-nav-action-opaque-default:#000000;--color-surface-component-nav-action-opaque-disabled:#bdbdbd;--color-surface-component-nav-action-opaque-hover:#4f4f4f;--color-surface-component-nav-action-opaque-pressed:#a5a5a5;--color-surface-component-nav-interactive-hover:#0000001f;--color-surface-component-nav-interactive-pressed:#0000003d;--color-surface-component-nav-neutral-alpha-regular:#0000008f;--color-surface-component-nav-neutral-opaque-regular:#ffffff;--color-surface-component-nav-neutral-opaque-subtle:#eeeeee;--color-surface-interactive-alpha-default:#00000000;--color-surface-interactive-alpha-hover:#0000001f;--color-surface-interactive-alpha-pressed:#0000003d;--color-surface-interactive-opaque-active:#000000;--color-surface-interactive-opaque-default:#000000;--color-surface-interactive-opaque-disabled:#6c6c6c;--color-surface-interactive-opaque-hover:#4f4f4f;--color-surface-interactive-opaque-pressed:#a5a5a5;--color-surface-neutral-alpha-regular:#0000008f;--color-surface-neutral-opaque-bold:#d5d5d5;--color-surface-neutral-opaque-disabled:#bdbdbd;--color-surface-neutral-opaque-regular:#ffffff;--color-surface-neutral-opaque-subtle:#eeeeee;--color-surface-status-critical:#ffe9e2;--color-surface-status-info:#f2eaff;--color-surface-status-warning:#fceccf;--color-surface-status-positive-bold:#e4f2df;--color-surface-status-positive-subtle:#95cb87;--color-text-action-main-default:#000000;--color-text-action-main-disabled:#6c6c6c;--color-text-action-main-hover:#353535;--color-text-action-main-pressed:#4f4f4f;--color-text-action-on_brand-primary-default:#ffffff;--color-text-action-on_brand-primary-disabled:#bdbdbd;--color-text-action-on_brand-primary-hover:#eeeeee;--color-text-action-on_brand-primary-pressed:#d5d5d5;--color-text-action-on_brand-secondary-default:#000000;--color-text-action-on_brand-secondary-disabled:#6c6c6c;--color-text-action-on_brand-secondary-hover:#353535;--color-text-action-on_brand-secondary-pressed:#4f4f4f;--color-text-component-footer-action-default:#ffffff;--color-text-component-footer-action-hover:#d5d5d5;--color-text-component-footer-action-pressed:#a5a5a5;--color-text-component-footer-neutral-regular:#ffffff;--color-text-component-footer-neutral-subtle:#d5d5d5;--color-text-component-input-default:#000000;--color-text-component-input-placeholder:#6c6c6c;--color-text-component-nav-action-default:#000000;--color-text-component-nav-action-disabled:#6c6c6c;--color-text-component-nav-action-hover:#4f4f4f;--color-text-component-nav-action-pressed:#a5a5a5;--color-text-component-nav-neutral-main-default:#000000;--color-text-component-nav-neutral-main-disabled:#6c6c6c;--color-text-component-nav-neutral-main-placeholder:#6c6c6c;--color-text-component-nav-neutral-on_button-default:#ffffff;--color-text-component-nav-neutral-on_button-disabled:#6c6c6c;--color-text-component-nav-status-critical:#bf1004;--color-text-interactive-active:#000000;--color-text-neutral-main-regular-default:#000000;--color-text-neutral-main-regular-disabled:#6c6c6c;--color-text-neutral-main-regular-placeholder:#6c6c6c;--color-text-neutral-main-subtle-default:#4f4f4f;--color-text-neutral-on_brand-primary-default:#ffffff;--color-text-neutral-on_brand-primary-disabled:#bdbdbd;--color-text-neutral-on_brand-secondary-default:#000000;--color-text-neutral-on_brand-secondary-disabled:#6c6c6c;--color-text-neutral-on_button-neutral-default:#ffffff;--color-text-neutral-on_button-neutral-disabled:#6c6c6c;--color-text-neutral-on_button-primary-default:#000000;--color-text-neutral-on_button-primary-disabled:#bdbdbd;--color-text-neutral-on_button-secondary-default:#ffffff;--color-text-neutral-on_button-secondary-disabled:#6c6c6c;--color-text-neutral-on_image-default:#ffffff;--color-text-status-critical:#bf1004;--color-text-status-info:#0048ff;--color-text-status-positive:#1d6e17;--color-text-status-warning:#725d27;--typography-font-weight-action-default:normal;--typography-font-weight-action-heavy:bold;--typography-font-weight-body-default:normal;--typography-font-weight-body-heavy:bold;--typography-font-weight-heading-default:bold;--variables-brand:The Coca-Cola Company;--dimension-radius-component-card:16px;--dimension-radius-component-image:16px;--dimension-radius-component-modal:16px;--dimension-radius-component-button:8000px;--dimension-radius-generic-min:0px;--dimension-radius-generic-s:4px;--dimension-radius-generic-m:8px;--dimension-radius-generic-l:12px;--dimension-radius-generic-xl:16px;--dimension-radius-generic-max:8000px;--dimension-radius-universal-button:8000px;--dimension-shadow-blur-none:0px;--dimension-shadow-blur-m:16px;--dimension-shadow-blur-l:24px;--dimension-shadow-position-none:0px;--dimension-shadow-position-s:8px;--dimension-shadow-position-m:12px;--dimension-shadow-spread-none:0px;--dimension-shadow-spread-s:2px;--dimension-size-2xs:8px;--dimension-size-xs:16px;--dimension-size-s:24px;--dimension-size-m:32px;--dimension-size-l:40px;--dimension-size-xl:48px;--dimension-size-2xl:56px;--dimension-size-3xl:64px;--dimension-size-4xl:72px;--dimension-size-5xl:80px;--dimension-spacing-min:0px;--dimension-spacing-3xs:2px;--dimension-spacing-2xs:4px;--dimension-spacing-xs:8px;--dimension-spacing-s:12px;--dimension-spacing-m:16px;--dimension-spacing-l:20px;--dimension-spacing-xl:24px;--dimension-spacing-2xl:32px;--dimension-spacing-3xl:40px;--dimension-spacing-4xl:64px;--dimension-spacing-5xl:80px;--dimension-spacing-6xl:120px;--dimension-stroke_weight-s:1px;--dimension-stroke_weight-m:2px;--dimension-stroke_weight-l:4px;--dimension-stroke_weight-xl:5px;--dimension-stroke_weight-2xl:8px;--typography-letter_spacing-heading:-1.5px;--typography-letter_spacing-action:0px;--typography-letter_spacing-body:0px;--typography-paragraph_spacing-action-s:0px;--typography-paragraph_spacing-body-s:4px;--typography-paragraph_spacing-body-m:8px;--typography-paragraph_spacing-heading-s:0px;--mobile-dimension-layout-gutter:16px;--mobile-dimension-layout-margin:24px;--mobile-dimension-layout-viewport-width:375px;--mobile-dimension-layout-viewport-height:812px;--mobile-dimension-radius-component-full_width_card:0px;--mobile-dimension-radius-component-lower_modal:0px;--mobile-dimension-radius-component-side_panel:16px;--mobile-dimension-size-height-component-hero_cropped-default:281px;--mobile-dimension-size-width-column-2:155px;--mobile-dimension-size-width-column-12:327px;--mobile-dimension-size-width-column-4:327px;--mobile-dimension-size-width-column-5:327px;--mobile-dimension-size-width-column-6:327px;--mobile-dimension-size-width-column-8:327px;--mobile-dimension-size-width-column-expanded:327px;--mobile-dimension-size-width-column-max:1152px;--mobile-dimension-size-width-component-brand_card-default:155px;--mobile-dimension-size-width-component-feed_card-max:375px;--mobile-dimension-size-width-component-horizontal_card-content-max:280px;--mobile-dimension-size-width-component-horizontal_card-image-max:327px;--mobile-dimension-size-width-component-icons_list-min:240px;--mobile-dimension-size-width-documentation-component_example-max:407px;--mobile-dimension-spacing-component-side_panel:280px;--mobile-dimension-spacing-padding-card-l:24px;--mobile-dimension-spacing-padding-card-s:24px;--mobile-dimension-spacing-padding-modal-s:24px;--mobile-dimension-spacing-vertical-text_to_text:8px;--mobile-dimension-spacing-vertical-module_to_text:32px;--mobile-dimension-spacing-vertical-hero_to_module:40px;--mobile-dimension-spacing-vertical-text_to_module:40px;--mobile-dimension-spacing-vertical-module_to_module:56px;--mobile-typography-line_height-action-m:24px;--mobile-typography-line_height-body-s:20px;--mobile-typography-line_height-body-m:24px;--mobile-typography-line_height-heading-s:28px;--mobile-typography-line_height-heading-m:32px;--mobile-typography-line_height-heading-l:36px;--mobile-typography-line_height-heading-xl:40px;--mobile-typography-line_height-heading-xxl:56px;--mobile-typography-size-action-m:16px;--mobile-typography-size-body-s:12px;--mobile-typography-size-body-m:16px;--mobile-typography-size-heading-s:20px;--mobile-typography-size-heading-m:24px;--mobile-typography-size-heading-l:28px;--mobile-typography-size-heading-xl:32px;--mobile-typography-size-heading-xxl:48px;--mobile-variables-breakpoint-type-column_number:4px;--mobile-variables-breakpoint-type-layout_margin:24px;--desktop-dimension-layout-margin:0px;--desktop-dimension-layout-gutter:24px;--desktop-dimension-layout-viewport-height:1024px;--desktop-dimension-layout-viewport-width:1440px;--desktop-dimension-radius-component-full_width_card:16px;--desktop-dimension-radius-component-lower_modal:16px;--desktop-dimension-radius-component-side_panel:0px;--desktop-dimension-size-height-component-hero_cropped-default:628px;--desktop-dimension-size-width-column-2:167px;--desktop-dimension-size-width-column-4:357px;--desktop-dimension-size-width-column-5:453px;--desktop-dimension-size-width-column-6:548px;--desktop-dimension-size-width-column-8:739px;--desktop-dimension-size-width-column-12:1120px;--desktop-dimension-size-width-column-max:1120px;--desktop-dimension-size-width-column-expanded:1280px;--desktop-dimension-size-width-component-brand_card-default:357px;--desktop-dimension-size-width-component-feed_card-max:544px;--desktop-dimension-size-width-component-horizontal_card-content-max:400px;--desktop-dimension-size-width-component-horizontal_card-image-max:167px;--desktop-dimension-size-width-component-icons_list-min:240px;--desktop-dimension-size-width-documentation-component_example-max:407px;--desktop-dimension-spacing-component-side_panel:0px;--desktop-dimension-spacing-padding-card-s:32px;--desktop-dimension-spacing-padding-card-l:64px;--desktop-dimension-spacing-padding-modal-s:32px;--desktop-dimension-spacing-vertical-text_to_text:8px;--desktop-dimension-spacing-vertical-module_to_text:32px;--desktop-dimension-spacing-vertical-hero_to_module:56px;--desktop-dimension-spacing-vertical-text_to_module:56px;--desktop-dimension-spacing-vertical-module_to_module:120px;--desktop-typography-line_height-action-m:24px;--desktop-typography-line_height-body-s:20px;--desktop-typography-line_height-body-m:24px;--desktop-typography-line_height-heading-s:32px;--desktop-typography-line_height-heading-m:36px;--desktop-typography-line_height-heading-l:40px;--desktop-typography-line_height-heading-xl:48px;--desktop-typography-line_height-heading-xxl:112px;--desktop-typography-size-action-m:16px;--desktop-typography-size-body-s:12px;--desktop-typography-size-body-m:16px;--desktop-typography-size-heading-s:24px;--desktop-typography-size-heading-m:28px;--desktop-typography-size-heading-l:32px;--desktop-typography-size-heading-xl:38px;--desktop-typography-size-heading-xxl:96px;--desktop-variables-breakpoint-type-column_number:12px;--desktop-variables-breakpoint-type-layout_margin:160px;--inverse-color-icon-action-main-default:#ffffff;--inverse-color-icon-action-main-disabled:#bdbdbd;--inverse-color-icon-action-main-hover:#eeeeee;--inverse-color-icon-action-main-pressed:#d5d5d5;--inverse-color-icon-action-on_brand-primary-default:#ffffff;--inverse-color-icon-action-on_brand-primary-disabled:#8b8b8b;--inverse-color-icon-action-on_brand-primary-hover:#eeeeee;--inverse-color-icon-action-on_brand-primary-pressed:#d5d5d5;--inverse-color-icon-action-on_brand-secondary-default:#000000;--inverse-color-icon-action-on_brand-secondary-disabled:#8b8b8b;--inverse-color-icon-action-on_brand-secondary-hover:#353535;--inverse-color-icon-action-on_brand-secondary-pressed:#6c6c6c;--inverse-color-icon-brand-primary-regular:#ea0000;--inverse-color-icon-brand-secondary-regular:#000000;--inverse-color-icon-component-footer-action-default:#000000;--inverse-color-icon-component-footer-action-hover:#717171;--inverse-color-icon-component-footer-action-pressed:#a5a5a5;--inverse-color-icon-component-footer-neutral-regular:#ffffff;--inverse-color-icon-component-illustration-brand-primary:#ea0000;--inverse-color-icon-component-illustration-brand-secondary:#ffffff;--inverse-color-icon-component-input-critical:#bf1004;--inverse-color-icon-component-input-default:#000000;--inverse-color-icon-component-input-positive:#1d6e17;--inverse-color-icon-component-nav-action-default:#ffffff;--inverse-color-icon-component-nav-action-disabled:#bdbdbd;--inverse-color-icon-component-nav-action-hover:#d5d5d5;--inverse-color-icon-component-nav-action-pressed:#a5a5a5;--inverse-color-icon-component-nav-neutral-main-default:#ffffff;--inverse-color-icon-component-nav-neutral-main-disabled:#bdbdbd;--inverse-color-icon-component-nav-neutral-on_button-default:#000000;--inverse-color-icon-component-nav-neutral-on_button-disabled:#bdbdbd;--inverse-color-icon-neutral-main-regular-default:#ffffff;--inverse-color-icon-neutral-main-regular-disabled:#bdbdbd;--inverse-color-icon-neutral-main-subtle-default:#d5d5d5;--inverse-color-icon-neutral-on_brand-primary-default:#ffffff;--inverse-color-icon-neutral-on_brand-primary-disabled:#bdbdbd;--inverse-color-icon-neutral-on_brand-secondary-default:#000000;--inverse-color-icon-neutral-on_brand-secondary-disabled:#8b8b8b;--inverse-color-icon-neutral-on_button-neutral-default:#000000;--inverse-color-icon-neutral-on_button-neutral-disabled:#bdbdbd;--inverse-color-icon-neutral-on_button-primary-default:#000000;--inverse-color-icon-neutral-on_button-primary-disabled:#bdbdbd;--inverse-color-icon-neutral-on_button-secondary-default:#ffffff;--inverse-color-icon-neutral-on_button-secondary-disabled:#8b8b8b;--inverse-color-icon-status-critical:#ffa68f;--inverse-color-icon-status-info:#c6b0ff;--inverse-color-icon-status-positive:#95cb87;--inverse-color-icon-status-warning:#e3b743;--inverse-color-shadow-interactive-hover:#ffffff52;--inverse-color-shadow-neutral-regular:#0000001f;--inverse-color-stroke-action-default:#ffffff;--inverse-color-stroke-brand-primary-default:#000000;--inverse-color-stroke-brand-primary-subtle:#6c6c6c;--inverse-color-stroke-brand-secondary-default:#ffffff;--inverse-color-stroke-brand-secondary-subtle:#d5d5d5;--inverse-color-stroke-component-footer-interactive-focus:#ffffff;--inverse-color-stroke-component-footer-neutral-regular:#ffffff;--inverse-color-stroke-component-footer-neutral-subtle:#d5d5d5;--inverse-color-stroke-component-input-field-active:#000000;--inverse-color-stroke-component-input-field-critical:#ffa68f;--inverse-color-stroke-component-input-field-default:#000000;--inverse-color-stroke-component-input-field-hover:#6c6c6c;--inverse-color-stroke-component-input-field-positive:#95cb87;--inverse-color-stroke-component-input-tag-subtle:#d5d5d5;--inverse-color-stroke-component-nav-interactive-active:#ffffff;--inverse-color-stroke-component-nav-interactive-default:#ffffff;--inverse-color-stroke-component-nav-interactive-focus:#ffffff;--inverse-color-stroke-component-nav-interactive-hover:#d5d5d5;--inverse-color-stroke-component-nav-neutral-main-regular:#ffffff;--inverse-color-stroke-component-nav-neutral-main-subtle:#717171;--inverse-color-stroke-component-nav-neutral-on_button-default:#ffffff;--inverse-color-stroke-component-nav-neutral-on_button-disabled:#bdbdbd;--inverse-color-stroke-interactive-main-active:#ffffff;--inverse-color-stroke-interactive-main-default:#ffffff;--inverse-color-stroke-interactive-main-disabled:#8b8b8b;--inverse-color-stroke-interactive-main-focus:#ffffff;--inverse-color-stroke-interactive-main-hover:#d5d5d5;--inverse-color-stroke-interactive-main-pressed:#a5a5a5;--inverse-color-stroke-interactive-on_brand-primary-focus:#ffffff;--inverse-color-stroke-interactive-on_brand-secondary-focus:#000000;--inverse-color-stroke-neutral-main-regular-default:#ffffff;--inverse-color-stroke-neutral-main-regular-disabled:#bdbdbd;--inverse-color-stroke-neutral-main-subtle-default:#717171;--inverse-color-stroke-neutral-on_brand-primary-default:#ffffff;--inverse-color-stroke-neutral-on_brand-primary-disabled:#bdbdbd;--inverse-color-stroke-neutral-on_brand-secondary-default:#000000;--inverse-color-stroke-neutral-on_brand-secondary-disabled:#8b8b8b;--inverse-color-stroke-neutral-on_button-neutral-default:#ffffff;--inverse-color-stroke-neutral-on_button-neutral-disabled:#bdbdbd;--inverse-color-stroke-neutral-on_button-primary-default:#ffffff;--inverse-color-stroke-neutral-on_button-primary-disabled:#bdbdbd;--inverse-color-stroke-neutral-on_button-secondary-default:#000000;--inverse-color-stroke-neutral-on_button-secondary-disabled:#8b8b8b;--inverse-color-stroke-status-critical:#ffa68f;--inverse-color-stroke-status-info:#c6b0ff;--inverse-color-stroke-status-positive:#95cb87;--inverse-color-stroke-status-warning:#e3b743;--inverse-color-surface-action-alpha-main-active:#ffffff1f;--inverse-color-surface-action-alpha-main-default:#ffffff00;--inverse-color-surface-action-alpha-main-hover:#ffffff1f;--inverse-color-surface-action-alpha-main-pressed:#ffffff3d;--inverse-color-surface-action-alpha-on_brand-primary-default:#ffffff00;--inverse-color-surface-action-alpha-on_brand-primary-hover:#ffffff1f;--inverse-color-surface-action-alpha-on_brand-primary-pressed:#ffffff3d;--inverse-color-surface-action-alpha-on_brand-secondary-default:#00000000;--inverse-color-surface-action-alpha-on_brand-secondary-hover:#0000001f;--inverse-color-surface-action-alpha-on_brand-secondary-pressed:#0000003d;--inverse-color-surface-action-opaque-main-default:#ffffff;--inverse-color-surface-action-opaque-main-disabled:#8b8b8b;--inverse-color-surface-action-opaque-main-hover:#eeeeee;--inverse-color-surface-action-opaque-main-pressed:#d5d5d5;--inverse-color-surface-action-opaque-on_brand-primary-default:#ffffff;--inverse-color-surface-action-opaque-on_brand-primary-disabled:#8b8b8b;--inverse-color-surface-action-opaque-on_brand-primary-hover:#d5d5d5;--inverse-color-surface-action-opaque-on_brand-primary-pressed:#a5a5a5;--inverse-color-surface-action-opaque-on_brand-secondary-default:#000000;--inverse-color-surface-action-opaque-on_brand-secondary-disabled:#bdbdbd;--inverse-color-surface-action-opaque-on_brand-secondary-hover:#353535;--inverse-color-surface-action-opaque-on_brand-secondary-pressed:#6c6c6c;--inverse-color-surface-brand-primary-regular:#000000;--inverse-color-surface-brand-secondary-regular:#ffffff;--inverse-color-surface-component-Input-dropdown-hover:#0000001f;--inverse-color-surface-component-Input-dropdown-pressed:#0000003d;--inverse-color-surface-component-Input-field-regular:#ffffff;--inverse-color-surface-component-footer-regular:#000000;--inverse-color-surface-component-footer-action-default:#ffffff00;--inverse-color-surface-component-footer-action-hover:#ffffff1f;--inverse-color-surface-component-footer-action-pressed:#ffffff3d;--inverse-color-surface-component-footer-neutral-regular:#000000;--inverse-color-surface-component-footer-neutral-subtle:#353535;--inverse-color-surface-component-live_badge-regular:#ff0000;--inverse-color-surface-component-nav-action-alpha-default:#ffffff00;--inverse-color-surface-component-nav-action-alpha-hover:#ffffff1f;--inverse-color-surface-component-nav-action-alpha-pressed:#ffffff3d;--inverse-color-surface-component-nav-action-opaque-default:#ffffff;--inverse-color-surface-component-nav-action-opaque-disabled:#8b8b8b;--inverse-color-surface-component-nav-action-opaque-hover:#d5d5d5;--inverse-color-surface-component-nav-action-opaque-pressed:#a5a5a5;--inverse-color-surface-component-nav-interactive-hover:#ffffff1f;--inverse-color-surface-component-nav-interactive-pressed:#ffffff3d;--inverse-color-surface-component-nav-neutral-alpha-regular:#0000008f;--inverse-color-surface-component-nav-neutral-opaque-regular:#000000;--inverse-color-surface-component-nav-neutral-opaque-subtle:#353535;--inverse-color-surface-interactive-alpha-default:#ffffff00;--inverse-color-surface-interactive-alpha-hover:#ffffff1f;--inverse-color-surface-interactive-alpha-pressed:#ffffff3d;--inverse-color-surface-interactive-opaque-active:#ffffff;--inverse-color-surface-interactive-opaque-default:#000000;--inverse-color-surface-interactive-opaque-disabled:#bdbdbd;--inverse-color-surface-interactive-opaque-hover:#6c6c6c;--inverse-color-surface-interactive-opaque-pressed:#a5a5a5;--inverse-color-surface-neutral-alpha-regular:#ffffff8f;--inverse-color-surface-neutral-opaque-bold:#717171;--inverse-color-surface-neutral-opaque-disabled:#8b8b8b;--inverse-color-surface-neutral-opaque-regular:#000000;--inverse-color-surface-neutral-opaque-subtle:#353535;--inverse-color-surface-status-critical:#69180a;--inverse-color-surface-status-info:#0029b6;--inverse-color-surface-status-warning:#40341a;--inverse-color-surface-status-positive-bold:#193e13;--inverse-color-surface-status-positive-subtle:#1d6e17;--inverse-color-text-action-main-default:#ffffff;--inverse-color-text-action-main-disabled:#bdbdbd;--inverse-color-text-action-main-hover:#eeeeee;--inverse-color-text-action-main-pressed:#d5d5d5;--inverse-color-text-action-on_brand-primary-default:#ffffff;--inverse-color-text-action-on_brand-primary-disabled:#bdbdbd;--inverse-color-text-action-on_brand-primary-hover:#eeeeee;--inverse-color-text-action-on_brand-primary-pressed:#d5d5d5;--inverse-color-text-action-on_brand-secondary-default:#000000;--inverse-color-text-action-on_brand-secondary-disabled:#bdbdbd;--inverse-color-text-action-on_brand-secondary-hover:#353535;--inverse-color-text-action-on_brand-secondary-pressed:#6c6c6c;--inverse-color-text-component-footer-action-default:#ffffff;--inverse-color-text-component-footer-action-hover:#d5d5d5;--inverse-color-text-component-footer-action-pressed:#a5a5a5;--inverse-color-text-component-footer-neutral-regular:#ffffff;--inverse-color-text-component-footer-neutral-subtle:#d5d5d5;--inverse-color-text-component-input-default:#000000;--inverse-color-text-component-input-placeholder:#8b8b8b;--inverse-color-text-component-nav-action-default:#ffffff;--inverse-color-text-component-nav-action-disabled:#bdbdbd;--inverse-color-text-component-nav-action-hover:#d5d5d5;--inverse-color-text-component-nav-action-pressed:#a5a5a5;--inverse-color-text-component-nav-neutral-main-default:#ffffff;--inverse-color-text-component-nav-neutral-main-disabled:#bdbdbd;--inverse-color-text-component-nav-neutral-main-placeholder:#bdbdbd;--inverse-color-text-component-nav-neutral-on_button-default:#000000;--inverse-color-text-component-nav-neutral-on_button-disabled:#bdbdbd;--inverse-color-text-component-nav-status-critical:#ffa68f;--inverse-color-text-interactive-active:#ffffff;--inverse-color-text-neutral-main-regular-default:#ffffff;--inverse-color-text-neutral-main-regular-disabled:#bdbdbd;--inverse-color-text-neutral-main-regular-placeholder:#bdbdbd;--inverse-color-text-neutral-main-subtle-default:#d5d5d5;--inverse-color-text-neutral-on_brand-primary-default:#ffffff;--inverse-color-text-neutral-on_brand-primary-disabled:#bdbdbd;--inverse-color-text-neutral-on_brand-secondary-default:#000000;--inverse-color-text-neutral-on_brand-secondary-disabled:#8b8b8b;--inverse-color-text-neutral-on_button-neutral-default:#000000;--inverse-color-text-neutral-on_button-neutral-disabled:#bdbdbd;--inverse-color-text-neutral-on_button-primary-default:#000000;--inverse-color-text-neutral-on_button-primary-disabled:#bdbdbd;--inverse-color-text-neutral-on_button-secondary-default:#ffffff;--inverse-color-text-neutral-on_button-secondary-disabled:#8b8b8b;--inverse-color-text-neutral-on_image-default:#ffffff;--inverse-color-text-status-critical:#ffa68f;--inverse-color-text-status-info:#c6b0ff;--inverse-color-text-status-positive:#95cb87;--inverse-color-text-status-warning:#e3b743;}
+    </style>
+</head>
+<body class="page basicpage template-homepage" id="page-f1245a4936" data-cmp-link-accessibility-enabled data-cmp-link-accessibility-text="opens in a new tab" data-cmp-data-layer-enabled>
+<script>
+	window.tccc = window.tccc || {};
+	window.tccc.cloudsearch = "onexp_us_en";
+</script>
+<script>
+    window.adobeDataLayer = window.adobeDataLayer || [];
+    adobeDataLayer.push({
+        page: JSON.parse("{\x22page\u002Df1245a4936\x22:{\x22@type\x22:\x22cep\/components\/page\x22,\x22repo:modifyDate\x22:\x222025\u002D11\u002D11T16:51:19Z\x22,\x22dc:title\x22:\x22English\x22,\x22dc:description\x22:\x22Explore ways you can be closer to the ones you love with meals worth sharing, festive playlists, and more holiday magic from Coke®. Shop all Coca\u002DCola sodas here.\x22,\x22xdm:template\x22:\x22\/conf\/onexp\/settings\/wcm\/templates\/homepage\x22,\x22xdm:language\x22:\x22en\u002DUS\x22,\x22xdm:tags\x22:[],\x22repo:path\x22:\x22\/content\/onexp\/us\/en.html\x22}}"),
+        event: 'cmp:show',
+        eventInfo: {
+            path: 'page.page\u002Df1245a4936'
+        }
+    });
+</script>
+<script>
+    const siteSection = 'Homepage';
+    if (siteSection !== '') {
+        CepDataLayer.push({
+            event: 'site_context',
+            site_section: siteSection
+        });
+    }
+</script>
+
+
+    
+
+
+
+
+    
+
+
+    <!-- Google Tag Manager (noscript) --> 
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NBWPCZW" 
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> 
+<!-- End Google Tag Manager (noscript) -->
+
+
+
+    <div id="single-sdk-config" data-cds-gam-url="https://frontend.naou.gcds.coke.com/v2" data-cds-enrichment-url="https://enrichment-apig.naou.gcds.coke.com/v2" data-client-ID="e7eec550-7e0e-4893-9531-aa8d498095b8" data-login-Url="/us/en/login" data-token-Exchange-Url="/us/en/token-exchange" data-region="NAOU" data-override-Country="US" data-override-Language="en" data-site-Section="Homepage"></div>
+
+
+    <div id="user-onboarding-config" data-leaderboards-api-url="https://onexp.test.tccc-nextgen.com/api/leaderboards/v1" data-user-api-url="https://onexp.test.tccc-nextgen.com/api/pnp/v1" data-recaptcha-sitekey="6Lfe5b8kAAAAAItc37dlx65sVLiwPNekg84cNLzm" data-promo-plus-env="GLOBAL_GAMMA" data-config='[]' data-welcome-screen-config='{"skipButtonLabel":"","heading":"","description":"","setupButtonLabel":""}'></div>
+
+<div class="root container responsivegrid">
+
+    
+    
+    
+    
+    <div id="container-4e440151fa" class="cmp-container">
+
+        
+
+        
+        <header class="experiencefragment">
+
+    <div class="cmp-experiencefragment cmp-experiencefragment--header" data-path="/content/experience-fragments/onexp/us/en/site/header/master/jcr:content">
+
+
+    
+    
+    
+    
+    <div id="container-5883f7c6f8" class="cmp-container">
+
+        
+
+        
+        <div class="header">
+    
+    <div class="header-wrapper header-user-profile">
+        <div class="cmp-container">
+            <div class="adaptiveImage image">
+                <div><div data-asset-id="aa19b8bb-8a05-4890-a5d5-10bd108cffae" id="adaptiveImage-f3d00938f1" data-cmp-data-layer="{&#34;adaptiveImage-f3d00938f1&#34;:{&#34;@type&#34;:&#34;cep/components/adaptiveImage&#34;,&#34;repo:modifyDate&#34;:&#34;2023-12-05T20:27:58Z&#34;,&#34;xdm:linkURL&#34;:&#34;/us/en.html&#34;,&#34;image&#34;:{&#34;repo:id&#34;:&#34;aa19b8bb-8a05-4890-a5d5-10bd108cffae&#34;,&#34;repo:modifyDate&#34;:&#34;2023-04-14T14:45:50Z&#34;,&#34;@type&#34;:&#34;image/svg+xml&#34;,&#34;repo:path&#34;:&#34;/content/dam/onexp/global/icons/Coke-company-logo-black.svg&#34;}}}" class="cmp-adaptive-image cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+    <a class="cmp-image__link" data-cmp-clickable href="/us/en">
+        
+    <picture>
+        
+        
+        <source/>
+        <img src="/content/dam/onexp/global/icons/Coke-company-logo-black.svg" loading="lazy" class="cmp-image__image" itemprop="contentUrl" alt="Coca Cola Company Logo"/>
+    </picture>
+
+
+        
+    </a>
+    
+    
+</div>
+
+    
+
+</div>
+            </div>
+            <div class="header__navigation">
+                <div class="cmp-container">
+                    
+                    <div class="text">
+                        <div>
+<div data-cmp-data-layer="{&#34;text-6164b3f4bd&#34;:{&#34;@type&#34;:&#34;cep/components/text&#34;,&#34;repo:modifyDate&#34;:&#34;2025-04-03T16:03:35Z&#34;,&#34;xdm:text&#34;:&#34;&lt;ul>\r\n&lt;li>&lt;a href=\&#34;/content/onexp/us/en/brands.html\&#34; target=\&#34;_self\&#34; rel=\&#34;noopener noreferrer\&#34;>Brands&lt;/a>&lt;/li>\r\n&lt;li>&lt;a href=\&#34;#\&#34; target=\&#34;_self\&#34; rel=\&#34;noopener noreferrer\&#34;>Discover&lt;/a>&lt;ul>\r\n&lt;li>&lt;a href=\&#34;/content/onexp/us/en/apps.html\&#34;>+one App&lt;/a>&lt;/li>\r\n&lt;li>&lt;a href=\&#34;https://www.worldofcoca-cola.com\&#34; target=\&#34;_blank\&#34; rel=\&#34;noopener noreferrer\&#34;>World Of Coca-Cola Attraction&lt;/a>&lt;/li>\r\n&lt;/ul>\r\n&lt;/li>\r\n&lt;li>&lt;a href=\&#34;#\&#34;>Impact&lt;/a>&lt;ul>\r\n&lt;li>&lt;a href=\&#34;/content/onexp/us/en/impact/culture.html\&#34;>Culture&lt;/a>&lt;/li>\r\n&lt;li>&lt;a href=\&#34;https://www.coca-colacompany.com/social-impact\&#34; target=\&#34;_blank\&#34; rel=\&#34;noopener noreferrer\&#34;>Social&lt;/a>&lt;/li>\r\n&lt;li>&lt;a href=\&#34;https://www.coca-colacompany.com/sustainability\&#34; target=\&#34;_blank\&#34; rel=\&#34;noopener noreferrer\&#34;>Sustainability&lt;/a>&lt;/li>\r\n&lt;/ul>\r\n&lt;/li>\r\n&lt;li>&lt;a href=\&#34;https://www.coca-colastore.com/\&#34; target=\&#34;_blank\&#34; rel=\&#34;noopener noreferrer\&#34;>Shop&lt;/a>&lt;/li>\r\n&lt;li>&lt;a href=\&#34;/content/onexp/us/en/offerings.html\&#34;>Promos &amp;amp; Offers&lt;/a>&lt;/li>\r\n&lt;/ul>\r\n&#34;}}" id="text-6164b3f4bd" class="cmp-text">
+    <ul><li><a href="/us/en/brands" target="_self" rel="noopener noreferrer">Brands</a></li><li><a href="#" target="_self" rel="noopener noreferrer">Discover</a><ul><li><a href="/us/en/apps">&#43;one App</a></li><li><a href="https://www.worldofcoca-cola.com" target="_blank" rel="noopener noreferrer">World Of Coca&#x2011;Cola Attraction</a></li></ul>
+</li><li><a href="#">Impact</a><ul><li><a href="/us/en/impact/culture">Culture</a></li><li><a href="https://www.coca-colacompany.com/social-impact" target="_blank" rel="noopener noreferrer">Social</a></li><li><a href="https://www.coca-colacompany.com/sustainability" target="_blank" rel="noopener noreferrer">Sustainability</a></li></ul>
+</li><li><a href="https://www.coca-colastore.com/" target="_blank" rel="noopener noreferrer">Shop</a></li><li><a href="/us/en/offerings">Promos &amp; Offers</a></li></ul>
+
+</div>
+
+    
+
+</div>
+                        
+                    </div>
+                    
+                    <div class="header__mobile-actions">
+                        <div class="button-group">
+                            <div class="button header__sign-up-button">
+                                <button class="cmp-button" aria-label="Sign Up">
+                                    <span class="cmp-button__text">Sign Up</span>
+                                </button>
+                            </div>
+                            <div class="button header__log-in-button">
+                                <button class="cmp-button" aria-label="Log In">
+                                    <span class="cmp-button__text">Log In</span>
+                                </button>
+                            </div>
+                            <div class="text header__login-unavailable-text">
+                                <div class="cmp-text"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="header__buttons-wrapper">
+                <div class="cmp-container">
+                    
+                    
+                    
+                        
+                            <div class="header__top-sign-up-button brand-colors">
+                                <button aria-label="Sign Up">
+                                    Sign Up
+                                </button>
+                            </div>
+                            <div class="header__user-account">
+                                <button class="cmp-button" aria-label="Account">
+                                    <span class="cmp-button__icon cmp-button__icon--profile"></span>
+                                    <span class="cmp-button__text"> Account </span>
+                                </button>
+                                
+                            </div>
+                        
+                    
+                    
+                    <div class="button header__menu-button header__button--separator-hidden">
+                        <div class="cmp-container">
+                            <button class="cmp-button" aria-label="Menu">
+                                <span class="cmp-button__icon cmp-button__icon--menu"></span>
+                                <span class="cmp-button__text">Menu</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div id="maincontent"></div>
+    
+    <link rel="stylesheet" data-href="https://www.coca-cola.com/onexp-theme/66773cb5ce1432f713066cf1f808dfc6371bee24475f8988ead42cdfa68c7edb/profile-widget.css"/>
+    <script data-src="https://www.google.com/recaptcha/api.js?render=6Lfe5b8kAAAAAItc37dlx65sVLiwPNekg84cNLzm"></script>
+    <script data-src="https://www.coca-cola.com/onexp-theme/66773cb5ce1432f713066cf1f808dfc6371bee24475f8988ead42cdfa68c7edb/profile-widget.js" type="text/javascript"></script>
+
+    
+        <div id="header-configuration" data-params='{
+                "ngpsApi": {
+                    "ngpsApiUrl": "https://gamma.ngps.coca-cola.com",
+                    "ngpsApiKey": "5BNVz7lnAMabTUtId2D8ea4gM4KJcO9F6B8IHU7a",
+                    "envId": "GLOBAL_GAMMA"
+                },
+                "leaderboardConfig": {
+                    "leaderboardApiUrl": "https://onexp.test.tccc-nextgen.com/api/leaderboards/v1",
+                    "promoPlusEnvId": "GLOBAL_GAMMA"
+                },
+                "configurationIds": "",
+                "reCaptchaSiteKey": "6Lfe5b8kAAAAAItc37dlx65sVLiwPNekg84cNLzm",
+                "enableAvatarAndUsername": false,
+                "enableUserWallet": false,
+                "enableProfileProgress": false,
+                "labels": {
+                    "profileSummaryModuleErrorMessage": "",
+                    "accountButtonAccessibilityLabel": "Account",
+                    "accountButtonLabel": "Account",
+                    "accountButtonTitle": "Account",
+                    "notificationHeading": "",
+                    "notificationDismissAction": "",
+                    "notificationDismissAllAction": "",
+                    "notificationDismissedAllText": "",
+                    "noUsernameLabel": "",
+                    "welcomeLabel": "",
+                    "profileProgressTitleLabel": "",
+                    "profileProgressDescriptionLabel": "",
+                    "profileProgressStepsDescriptionLabel": ""
+                },
+                "profilePersonalizationLabels": {},
+                "actions": {
+                    "myWallet": {
+                        "label": "",
+                        "url": "",
+                        "accessibilityLabel": ""
+                    },
+                    "referrals": {
+                        "label": "",
+                        "url": "",
+                        "accessibilityLabel": ""
+                    },
+                    "manageAccount": {
+                        "label": "Manage Account",
+                        "accessibilityLabel": "Manage Account"
+                    },
+                    "logout": {
+                        "label": "Log Out",
+                        "accessibilityLabel": "Log Out"
+                    }
+                },
+                "notifications": {
+                    "createProfile": {
+                        "title": "",
+                        "description": "",
+                        "actionLabel": ""
+                    }
+                }
+            }'></div>
+    
+
+</div>
+
+        
+    </div>
+
+</div>
+    
+    
+
+    
+
+</header>
+<main class="container responsivegrid">
+
+    
+    
+    
+    
+    <div id="container-81d0e7e407" class="cmp-container">
+
+        
+
+        
+        <div class="container responsivegrid container__content-start">
+
+    
+    
+    
+    
+    <div id="container-1c545e4050" class="cmp-container">
+
+        
+
+        
+        <div class="carousel panelcontainer carousel--hero">
+<div id="carousel-e857b6cf0c" class="cmp-carousel" role="group" aria-live="polite" aria-roledescription="carousel" data-cmp-is="carousel" data-cmp-delay="5000" data-cmp-data-layer="{&#34;carousel-e857b6cf0c&#34;:{&#34;shownItems&#34;:[&#34;carousel-e857b6cf0c-item-6deaa27e89&#34;],&#34;@type&#34;:&#34;cep/components/carousel&#34;,&#34;repo:modifyDate&#34;:&#34;2025-10-31T10:51:09Z&#34;}}" data-placeholder-text="false">
+    
+    <div class="cmp-carousel__content" aria-atomic="false" aria-live="polite">
+        <div id="carousel-e857b6cf0c-item-6deaa27e89-tabpanel" class="cmp-carousel__item cmp-carousel__item--active" role="tabpanel" aria-labelledby="carousel-e857b6cf0c-item-6deaa27e89-tab" aria-roledescription="slide" aria-label="Slide 1 of 2" data-cmp-data-layer="{&#34;carousel-e857b6cf0c-item-6deaa27e89&#34;:{&#34;@type&#34;:&#34;cep/components/carousel/item&#34;,&#34;repo:modifyDate&#34;:&#34;2025-11-03T20:27:50Z&#34;,&#34;dc:title&#34;:&#34;fall sports&#34;}}" data-cmp-hook-carousel="item"><div class="teaser hero content-on-top content-on-left"><div id="teaser-6deaa27e89" class="cmp-teaser">
+    
+        <div class="cmp-teaser__content">
+            
+    
+
+            
+    <h1 class="cmp-teaser__title">
+        ‘Tis the Season  for Holiday Refreshment
+    </h1>
+
+            
+    <div class="cmp-teaser__description"><p>No one celebrates the holidays like Coca&#x2011;Cola! Discover all the ways we’re here to help you savor every moment of the season.</p>
+</div>
+
+            
+    <div class="cmp-teaser__action-container">
+        
+    <a class="cmp-teaser__action-link" id="teaser-6deaa27e89-cta-52dc6f4bee" data-cmp-data-layer="{&#34;teaser-6deaa27e89-cta-52dc6f4bee&#34;:{&#34;@type&#34;:&#34;cep/components/teaser/cta&#34;,&#34;dc:title&#34;:&#34;Explore More&#34;,&#34;xdm:linkURL&#34;:&#34;/us/en/offerings/holiday.html&#34;}}" data-cmp-clickable href="/us/en/offerings/holiday">Explore More</a>
+
+    </div>
+
+        </div>
+        
+        
+    <div class="cmp-teaser__image"><div id="teaser-6deaa27e89-image" data-cmp-data-layer="{&#34;teaser-6deaa27e89-image&#34;:{&#34;@type&#34;:&#34;cep/components/adaptiveImage&#34;,&#34;repo:modifyDate&#34;:&#34;2025-11-03T20:27:50Z&#34;,&#34;image&#34;:{&#34;repo:id&#34;:&#34;f01f08cc-d353-491c-bef2-b12dd0d32348&#34;,&#34;repo:modifyDate&#34;:&#34;2025-11-03T20:27:01Z&#34;,&#34;@type&#34;:&#34;image/png&#34;,&#34;repo:path&#34;:&#34;/content/dam/onexp/us/en/homepage/hero-banners/kotm-holiday-home-banner-dt.png&#34;,&#34;repo:mobile:path&#34;:&#34;/content/dam/onexp/us/en/homepage/hero-banners/kotm-holiday-home-banner-mo.png&#34;}}}" class="cmp-adaptive-image cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+    
+        
+    <picture>
+        <source srcset="/content/dam/onexp/us/en/homepage/hero-banners/kotm-holiday-home-banner-dt.png/width100.png 100w,/content/dam/onexp/us/en/homepage/hero-banners/kotm-holiday-home-banner-dt.png/width200.png 200w,/content/dam/onexp/us/en/homepage/hero-banners/kotm-holiday-home-banner-dt.png/width380.png 380w,/content/dam/onexp/us/en/homepage/hero-banners/kotm-holiday-home-banner-dt.png/width500.png 500w,/content/dam/onexp/us/en/homepage/hero-banners/kotm-holiday-home-banner-dt.png/width767.png 767w,/content/dam/onexp/us/en/homepage/hero-banners/kotm-holiday-home-banner-dt.png/width1024.png 1024w,/content/dam/onexp/us/en/homepage/hero-banners/kotm-holiday-home-banner-dt.png/width1338.png 1338w,/content/dam/onexp/us/en/homepage/hero-banners/kotm-holiday-home-banner-dt.png/width1960.png 1960w,/content/dam/onexp/us/en/homepage/hero-banners/kotm-holiday-home-banner-dt.png/width2674.png 2674w,/content/dam/onexp/us/en/homepage/hero-banners/kotm-holiday-home-banner-dt.png/width3840.png 3840w" media="(min-width: 1200px)" width="2560" height="1208"/>
+        <source srcset="/content/dam/onexp/us/en/homepage/hero-banners/kotm-holiday-home-banner-mo.png/width100.png 100w,/content/dam/onexp/us/en/homepage/hero-banners/kotm-holiday-home-banner-mo.png/width200.png 200w,/content/dam/onexp/us/en/homepage/hero-banners/kotm-holiday-home-banner-mo.png/width380.png 380w,/content/dam/onexp/us/en/homepage/hero-banners/kotm-holiday-home-banner-mo.png/width500.png 500w,/content/dam/onexp/us/en/homepage/hero-banners/kotm-holiday-home-banner-mo.png/width767.png 767w,/content/dam/onexp/us/en/homepage/hero-banners/kotm-holiday-home-banner-mo.png/width1024.png 1024w,/content/dam/onexp/us/en/homepage/hero-banners/kotm-holiday-home-banner-mo.png/width1338.png 1338w,/content/dam/onexp/us/en/homepage/hero-banners/kotm-holiday-home-banner-mo.png/width1960.png 1960w,/content/dam/onexp/us/en/homepage/hero-banners/kotm-holiday-home-banner-mo.png/width2674.png 2674w,/content/dam/onexp/us/en/homepage/hero-banners/kotm-holiday-home-banner-mo.png/width3840.png 3840w" width="984" height="1745"/>
+        
+        <img src="/content/dam/onexp/us/en/homepage/hero-banners/kotm-holiday-home-banner-dt.png" class="cmp-image__image" itemprop="contentUrl" alt/>
+    </picture>
+
+
+        
+    
+    
+    
+</div>
+
+    
+
+</div>
+
+        
+    
+    
+</div>
+
+    
+
+</div>
+</div>
+<div id="carousel-e857b6cf0c-item-145ae9aed5-tabpanel" class="cmp-carousel__item" role="tabpanel" aria-labelledby="carousel-e857b6cf0c-item-145ae9aed5-tab" aria-roledescription="slide" aria-label="Slide 2 of 2" data-cmp-data-layer="{&#34;carousel-e857b6cf0c-item-145ae9aed5&#34;:{&#34;@type&#34;:&#34;cep/components/carousel/item&#34;,&#34;repo:modifyDate&#34;:&#34;2025-11-11T15:08:31Z&#34;,&#34;dc:title&#34;:&#34;Most Valuable Fan Promotion&#34;}}" data-cmp-hook-carousel="item"><div class="teaser hero content-on-top content-on-right"><div id="teaser-145ae9aed5" class="cmp-teaser">
+    
+        <div class="cmp-teaser__content">
+            
+    
+
+            
+    <h2 class="cmp-teaser__title">
+        Enter for a chance to win groceries for a year
+    </h2>
+
+            
+    <div class="cmp-teaser__description"><p>There’s nothing more comforting than a stocked kitchen. We’ll take care of that all year.</p>
+</div>
+
+            
+    <div class="cmp-teaser__action-container">
+        
+    <a class="cmp-teaser__action-link" id="teaser-145ae9aed5-cta-1fbbf5a2b4" data-cmp-data-layer="{&#34;teaser-145ae9aed5-cta-1fbbf5a2b4&#34;:{&#34;@type&#34;:&#34;cep/components/teaser/cta&#34;,&#34;dc:title&#34;:&#34;Enter Now&#34;,&#34;xdm:linkURL&#34;:&#34;/us/en/brands/gold-peak-tea.html&#34;}}" data-cmp-clickable href="/us/en/brands/gold-peak-tea">Enter Now</a>
+
+    </div>
+
+        </div>
+        
+        
+    <div class="cmp-teaser__image"><div id="teaser-145ae9aed5-image" data-cmp-data-layer="{&#34;teaser-145ae9aed5-image&#34;:{&#34;@type&#34;:&#34;cep/components/adaptiveImage&#34;,&#34;repo:modifyDate&#34;:&#34;2025-11-11T15:08:31Z&#34;,&#34;image&#34;:{&#34;repo:id&#34;:&#34;948e1ff2-81ff-40e7-9bb7-d84ec7ad892f&#34;,&#34;repo:modifyDate&#34;:&#34;2025-11-11T15:07:45Z&#34;,&#34;@type&#34;:&#34;image/png&#34;,&#34;repo:path&#34;:&#34;/content/dam/onexp/us/en/homepage/onexp-gpk-grocerysweeps-holiday-dt.png&#34;,&#34;repo:mobile:path&#34;:&#34;/content/dam/onexp/us/en/homepage/onexp-gpk-grocerysweeps-holiday-mo.png&#34;}}}" class="cmp-adaptive-image cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+    
+        
+    <picture>
+        <source srcset="/content/dam/onexp/us/en/homepage/onexp-gpk-grocerysweeps-holiday-dt.png/width100.png 100w,/content/dam/onexp/us/en/homepage/onexp-gpk-grocerysweeps-holiday-dt.png/width200.png 200w,/content/dam/onexp/us/en/homepage/onexp-gpk-grocerysweeps-holiday-dt.png/width380.png 380w,/content/dam/onexp/us/en/homepage/onexp-gpk-grocerysweeps-holiday-dt.png/width500.png 500w,/content/dam/onexp/us/en/homepage/onexp-gpk-grocerysweeps-holiday-dt.png/width767.png 767w,/content/dam/onexp/us/en/homepage/onexp-gpk-grocerysweeps-holiday-dt.png/width1024.png 1024w,/content/dam/onexp/us/en/homepage/onexp-gpk-grocerysweeps-holiday-dt.png/width1338.png 1338w,/content/dam/onexp/us/en/homepage/onexp-gpk-grocerysweeps-holiday-dt.png/width1960.png 1960w,/content/dam/onexp/us/en/homepage/onexp-gpk-grocerysweeps-holiday-dt.png/width2674.png 2674w,/content/dam/onexp/us/en/homepage/onexp-gpk-grocerysweeps-holiday-dt.png/width3840.png 3840w" media="(min-width: 1200px)" width="2000" height="944"/>
+        <source srcset="/content/dam/onexp/us/en/homepage/onexp-gpk-grocerysweeps-holiday-mo.png/width100.png 100w,/content/dam/onexp/us/en/homepage/onexp-gpk-grocerysweeps-holiday-mo.png/width200.png 200w,/content/dam/onexp/us/en/homepage/onexp-gpk-grocerysweeps-holiday-mo.png/width380.png 380w,/content/dam/onexp/us/en/homepage/onexp-gpk-grocerysweeps-holiday-mo.png/width500.png 500w,/content/dam/onexp/us/en/homepage/onexp-gpk-grocerysweeps-holiday-mo.png/width767.png 767w,/content/dam/onexp/us/en/homepage/onexp-gpk-grocerysweeps-holiday-mo.png/width1024.png 1024w,/content/dam/onexp/us/en/homepage/onexp-gpk-grocerysweeps-holiday-mo.png/width1338.png 1338w,/content/dam/onexp/us/en/homepage/onexp-gpk-grocerysweeps-holiday-mo.png/width1960.png 1960w,/content/dam/onexp/us/en/homepage/onexp-gpk-grocerysweeps-holiday-mo.png/width2674.png 2674w,/content/dam/onexp/us/en/homepage/onexp-gpk-grocerysweeps-holiday-mo.png/width3840.png 3840w" width="911" height="1500"/>
+        
+        <img src="/content/dam/onexp/us/en/homepage/onexp-gpk-grocerysweeps-holiday-dt.png" class="cmp-image__image" itemprop="contentUrl" alt/>
+    </picture>
+
+
+        
+    
+    
+    
+</div>
+
+    
+
+</div>
+
+        
+    
+    
+</div>
+
+    
+
+</div>
+</div>
+
+        
+    <div class="cmp-carousel__actions">
+        <button class="cmp-carousel__action cmp-carousel__action--previous" type="button" aria-label="Previous" data-cmp-hook-carousel="previous">
+            <span class="cmp-carousel__action-icon"></span>
+            <span class="cmp-carousel__action-text">Previous</span>
+        </button>
+        <button class="cmp-carousel__action cmp-carousel__action--next" type="button" aria-label="Next" data-cmp-hook-carousel="next">
+            <span class="cmp-carousel__action-icon"></span>
+            <span class="cmp-carousel__action-text">Next</span>
+        </button>
+        
+        
+    </div>
+
+        <ol class="cmp-carousel__indicators" role="tablist" aria-label="Choose a slide to display" data-cmp-hook-carousel="indicators">
+            <li id="carousel-e857b6cf0c-item-6deaa27e89-tab" class="cmp-carousel__indicator cmp-carousel__indicator--active" role="tab" aria-controls="carousel-e857b6cf0c-item-6deaa27e89-tabpanel" aria-label="Slide 1" data-cmp-hook-carousel="indicator">fall sports</li>
+<li id="carousel-e857b6cf0c-item-145ae9aed5-tab" class="cmp-carousel__indicator" role="tab" aria-controls="carousel-e857b6cf0c-item-145ae9aed5-tabpanel" aria-label="Slide 2" data-cmp-hook-carousel="indicator">Most Valuable Fan Promotion</li>
+
+        </ol>
+    </div>
+    
+</div>
+</div>
+
+        
+    </div>
+
+</div>
+<div class="container responsivegrid container__content">
+
+    
+    
+    
+    
+    <div id="container-313593d7fc" class="cmp-container">
+
+        
+
+        
+        <div class="title">
+<div data-cmp-data-layer="{&#34;title-eaaffc3eca&#34;:{&#34;@type&#34;:&#34;cep/components/title&#34;,&#34;repo:modifyDate&#34;:&#34;2025-08-07T19:46:46Z&#34;,&#34;dc:title&#34;:&#34;Promos &amp; Offers&#34;}}" id="title-eaaffc3eca" class="cmp-title">
+    <h2 class="cmp-title__text">Promos &amp; Offers</h2>
+</div>
+
+    
+
+</div>
+<div class="carousel panelcontainer">
+<div id="carousel-3d7e4f1884" class="cmp-carousel" role="group" aria-live="polite" aria-roledescription="carousel" data-cmp-is="carousel" data-cmp-delay="5000" data-cmp-data-layer="{&#34;carousel-3d7e4f1884&#34;:{&#34;shownItems&#34;:[&#34;carousel-3d7e4f1884-item-27fe3bb817&#34;],&#34;@type&#34;:&#34;cep/components/carousel&#34;,&#34;repo:modifyDate&#34;:&#34;2025-10-01T15:40:16Z&#34;}}" data-placeholder-text="false">
+    
+    <div class="cmp-carousel__content" aria-atomic="false" aria-live="polite">
+        <div id="carousel-3d7e4f1884-item-27fe3bb817-tabpanel" class="cmp-carousel__item cmp-carousel__item--active" role="tabpanel" aria-labelledby="carousel-3d7e4f1884-item-27fe3bb817-tab" aria-roledescription="slide" aria-label="Slide 1 of 2" data-cmp-data-layer="{&#34;carousel-3d7e4f1884-item-27fe3bb817&#34;:{&#34;@type&#34;:&#34;cep/components/carousel/item&#34;,&#34;repo:modifyDate&#34;:&#34;2025-11-11T16:51:19Z&#34;,&#34;dc:title&#34;:&#34;Enter The Haunted Factory&#34;}}" data-cmp-hook-carousel="item"><div class="teaser content-card"><div id="teaser-27fe3bb817" class="cmp-teaser">
+    
+        <div class="cmp-teaser__content">
+            
+    
+
+            
+    <h3 class="cmp-teaser__title">
+        you could win a mini fridge full of vitaminwater!
+    </h3>
+
+            
+    <div class="cmp-teaser__description"><p>enter for your chance to win a vitaminwater mini fridge full of products just for you. keep cool with big flavors right from your fridge.</p>
+</div>
+
+            
+    <div class="cmp-teaser__action-container">
+        
+    <a class="cmp-teaser__action-link" id="teaser-27fe3bb817-cta-7d2e107b6c" data-cmp-data-layer="{&#34;teaser-27fe3bb817-cta-7d2e107b6c&#34;:{&#34;@type&#34;:&#34;cep/components/teaser/cta&#34;,&#34;dc:title&#34;:&#34;enter now&#34;,&#34;xdm:linkURL&#34;:&#34;/us/en/brands/vitaminwater.html&#34;}}" data-cmp-clickable href="/us/en/brands/vitaminwater">enter now</a>
+
+    </div>
+
+        </div>
+        
+        
+    <div class="cmp-teaser__image"><div id="teaser-27fe3bb817-image" data-cmp-data-layer="{&#34;teaser-27fe3bb817-image&#34;:{&#34;@type&#34;:&#34;cep/components/adaptiveImage&#34;,&#34;repo:modifyDate&#34;:&#34;2025-11-11T16:51:19Z&#34;,&#34;image&#34;:{&#34;repo:id&#34;:&#34;4839f537-5b56-44eb-a9b1-20661e782162&#34;,&#34;repo:modifyDate&#34;:&#34;2025-11-11T16:46:06Z&#34;,&#34;@type&#34;:&#34;image/png&#34;,&#34;repo:path&#34;:&#34;/content/dam/onexp/us/en/homepage/vitaminwater-tile-v2.png&#34;,&#34;repo:mobile:path&#34;:&#34;/content/dam/onexp/us/en/homepage/ko-onexp-meta-image.jpg&#34;}}}" class="cmp-adaptive-image cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+    
+        
+    <picture>
+        
+        
+        <source srcset="/content/dam/onexp/us/en/homepage/vitaminwater-tile-v2.png/width100.png 100w,/content/dam/onexp/us/en/homepage/vitaminwater-tile-v2.png/width200.png 200w,/content/dam/onexp/us/en/homepage/vitaminwater-tile-v2.png/width380.png 380w,/content/dam/onexp/us/en/homepage/vitaminwater-tile-v2.png/width500.png 500w,/content/dam/onexp/us/en/homepage/vitaminwater-tile-v2.png/width767.png 767w,/content/dam/onexp/us/en/homepage/vitaminwater-tile-v2.png/width1024.png 1024w,/content/dam/onexp/us/en/homepage/vitaminwater-tile-v2.png/width1338.png 1338w,/content/dam/onexp/us/en/homepage/vitaminwater-tile-v2.png/width1960.png 1960w,/content/dam/onexp/us/en/homepage/vitaminwater-tile-v2.png/width2674.png 2674w,/content/dam/onexp/us/en/homepage/vitaminwater-tile-v2.png/width3840.png 3840w" width="1083" height="827"/>
+        <img src="/content/dam/onexp/us/en/homepage/vitaminwater-tile-v2.png" loading="lazy" class="cmp-image__image" itemprop="contentUrl" alt/>
+    </picture>
+
+
+        
+    
+    
+    
+</div>
+
+    
+
+</div>
+
+        
+    
+    
+</div>
+
+    
+
+</div>
+</div>
+<div id="carousel-3d7e4f1884-item-d8d0cac097-tabpanel" class="cmp-carousel__item" role="tabpanel" aria-labelledby="carousel-3d7e4f1884-item-d8d0cac097-tab" aria-roledescription="slide" aria-label="Slide 2 of 2" data-cmp-data-layer="{&#34;carousel-3d7e4f1884-item-d8d0cac097&#34;:{&#34;@type&#34;:&#34;cep/components/carousel/item&#34;,&#34;repo:modifyDate&#34;:&#34;2025-10-31T10:56:41Z&#34;,&#34;dc:title&#34;:&#34;You could win signed Jalen Hurts gear&#34;}}" data-cmp-hook-carousel="item"><div class="teaser content-card"><div id="teaser-d8d0cac097" class="cmp-teaser">
+    
+        <div class="cmp-teaser__content">
+            
+    
+
+            
+    <h3 class="cmp-teaser__title">
+        Everything You Need for Ice Cold Diet Coke Perfection
+    </h3>
+
+            
+    <div class="cmp-teaser__description"><p>Enter now for your chance to win your own ice machine, two Diet Coke tumblers, a pack of straws for that perfect sip, plus two 12-packs of Diet Coke.</p>
+</div>
+
+            
+    <div class="cmp-teaser__action-container">
+        
+    <a class="cmp-teaser__action-link" id="teaser-d8d0cac097-cta-f9bf476320" data-cmp-data-layer="{&#34;teaser-d8d0cac097-cta-f9bf476320&#34;:{&#34;@type&#34;:&#34;cep/components/teaser/cta&#34;,&#34;dc:title&#34;:&#34;Enter Now&#34;,&#34;xdm:linkURL&#34;:&#34;/us/en/brands/diet-coke.html&#34;}}" data-cmp-clickable href="/us/en/brands/diet-coke">Enter Now</a>
+
+    </div>
+
+        </div>
+        
+        
+    <div class="cmp-teaser__image"><div id="teaser-d8d0cac097-image" data-cmp-data-layer="{&#34;teaser-d8d0cac097-image&#34;:{&#34;@type&#34;:&#34;cep/components/adaptiveImage&#34;,&#34;repo:modifyDate&#34;:&#34;2025-10-31T10:56:41Z&#34;,&#34;image&#34;:{&#34;repo:id&#34;:&#34;3c38a45a-c17e-4fc2-b348-752610b4b5b9&#34;,&#34;repo:modifyDate&#34;:&#34;2025-10-31T10:55:04Z&#34;,&#34;@type&#34;:&#34;image/png&#34;,&#34;repo:path&#34;:&#34;/content/dam/onexp/us/en/homepage/diet-coke-q4-sweeps-tile.png&#34;,&#34;repo:mobile:path&#34;:&#34;/content/dam/onexp/us/en/homepage/ko-onexp-meta-image.jpg&#34;}}}" class="cmp-adaptive-image cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+    
+        
+    <picture>
+        
+        
+        <source srcset="/content/dam/onexp/us/en/homepage/diet-coke-q4-sweeps-tile.png/width100.png 100w,/content/dam/onexp/us/en/homepage/diet-coke-q4-sweeps-tile.png/width200.png 200w,/content/dam/onexp/us/en/homepage/diet-coke-q4-sweeps-tile.png/width380.png 380w,/content/dam/onexp/us/en/homepage/diet-coke-q4-sweeps-tile.png/width500.png 500w,/content/dam/onexp/us/en/homepage/diet-coke-q4-sweeps-tile.png/width767.png 767w,/content/dam/onexp/us/en/homepage/diet-coke-q4-sweeps-tile.png/width1024.png 1024w,/content/dam/onexp/us/en/homepage/diet-coke-q4-sweeps-tile.png/width1338.png 1338w,/content/dam/onexp/us/en/homepage/diet-coke-q4-sweeps-tile.png/width1960.png 1960w,/content/dam/onexp/us/en/homepage/diet-coke-q4-sweeps-tile.png/width2674.png 2674w,/content/dam/onexp/us/en/homepage/diet-coke-q4-sweeps-tile.png/width3840.png 3840w" width="1083" height="827"/>
+        <img src="/content/dam/onexp/us/en/homepage/diet-coke-q4-sweeps-tile.png" loading="lazy" class="cmp-image__image" itemprop="contentUrl" alt/>
+    </picture>
+
+
+        
+    
+    
+    
+</div>
+
+    
+
+</div>
+
+        
+    
+    
+</div>
+
+    
+
+</div>
+</div>
+
+        
+    <div class="cmp-carousel__actions">
+        <button class="cmp-carousel__action cmp-carousel__action--previous" type="button" aria-label="Previous" data-cmp-hook-carousel="previous">
+            <span class="cmp-carousel__action-icon"></span>
+            <span class="cmp-carousel__action-text">Previous</span>
+        </button>
+        <button class="cmp-carousel__action cmp-carousel__action--next" type="button" aria-label="Next" data-cmp-hook-carousel="next">
+            <span class="cmp-carousel__action-icon"></span>
+            <span class="cmp-carousel__action-text">Next</span>
+        </button>
+        
+        
+    </div>
+
+        <ol class="cmp-carousel__indicators" role="tablist" aria-label="Choose a slide to display" data-cmp-hook-carousel="indicators">
+            <li id="carousel-3d7e4f1884-item-27fe3bb817-tab" class="cmp-carousel__indicator cmp-carousel__indicator--active" role="tab" aria-controls="carousel-3d7e4f1884-item-27fe3bb817-tabpanel" aria-label="Slide 1" data-cmp-hook-carousel="indicator">Enter The Haunted Factory</li>
+<li id="carousel-3d7e4f1884-item-d8d0cac097-tab" class="cmp-carousel__indicator" role="tab" aria-controls="carousel-3d7e4f1884-item-d8d0cac097-tabpanel" aria-label="Slide 2" data-cmp-hook-carousel="indicator">You could win signed Jalen Hurts gear</li>
+
+        </ol>
+    </div>
+    
+</div>
+</div>
+<div class="button">
+<a id="button-eb2f81a211" class="cmp-button" data-cmp-clickable data-cmp-data-layer="{&#34;button-eb2f81a211&#34;:{&#34;@type&#34;:&#34;cep/components/button&#34;,&#34;repo:modifyDate&#34;:&#34;2025-06-03T14:53:52Z&#34;,&#34;dc:title&#34;:&#34;View all Offerings&#34;,&#34;xdm:linkURL&#34;:&#34;/us/en/offerings.html&#34;}}" href="/us/en/offerings">
+    
+    
+
+    <span class="cmp-button__text">View all Offerings</span>
+</a>
+</div>
+<div class="title">
+<div data-cmp-data-layer="{&#34;title-8f41b09b20&#34;:{&#34;@type&#34;:&#34;cep/components/title&#34;,&#34;repo:modifyDate&#34;:&#34;2024-09-17T19:16:49Z&#34;,&#34;dc:title&#34;:&#34;Features&#34;}}" id="title-8f41b09b20" class="cmp-title">
+    <h2 class="cmp-title__text">Features</h2>
+</div>
+
+    
+
+</div>
+<div class="teaser campaign-card content-on-bottom content-on-right"><div id="teaser-e01df91d42" class="cmp-teaser">
+    
+        <div class="cmp-teaser__content">
+            
+    
+
+            
+    <h3 class="cmp-teaser__title">
+        Anta Claus + Winter Spiced Cranberry
+    </h3>
+
+            
+    <div class="cmp-teaser__description"><p>Enter for your chance to win a signed Anthony Edwards backboard used in his video shoot, or a Sprite Winter Spiced Cranberry 12-pack and cooler.</p>
+</div>
+
+            
+    <div class="cmp-teaser__action-container">
+        
+    <a class="cmp-teaser__action-link" id="teaser-e01df91d42-cta-917f183fa2" data-cmp-data-layer="{&#34;teaser-e01df91d42-cta-917f183fa2&#34;:{&#34;@type&#34;:&#34;cep/components/teaser/cta&#34;,&#34;dc:title&#34;:&#34;Learn More&#34;,&#34;xdm:linkURL&#34;:&#34;/us/en/brands/sprite/sprite-squad.html&#34;}}" data-cmp-clickable href="/us/en/brands/sprite/sprite-squad">Learn More</a>
+
+    </div>
+
+        </div>
+        
+        
+    <div class="cmp-teaser__image"><div id="teaser-e01df91d42-image" data-cmp-data-layer="{&#34;teaser-e01df91d42-image&#34;:{&#34;@type&#34;:&#34;cep/components/adaptiveImage&#34;,&#34;repo:modifyDate&#34;:&#34;2025-11-04T18:01:41Z&#34;,&#34;image&#34;:{&#34;repo:id&#34;:&#34;a36eb0fa-db63-4f9f-851d-8d343a4ea8e3&#34;,&#34;repo:modifyDate&#34;:&#34;2025-11-04T17:23:39Z&#34;,&#34;@type&#34;:&#34;image/png&#34;,&#34;repo:path&#34;:&#34;/content/dam/onexp/us/en/homepage/sprite-squad-anta-claus-tile-dt.png&#34;,&#34;repo:mobile:path&#34;:&#34;/content/dam/onexp/us/en/homepage/sprite-squad-anta-claus-tile-mo-v2.png&#34;}}}" class="cmp-adaptive-image cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+    
+        
+    <picture>
+        <source srcset="/content/dam/onexp/us/en/homepage/sprite-squad-anta-claus-tile-dt.png/width100.png 100w,/content/dam/onexp/us/en/homepage/sprite-squad-anta-claus-tile-dt.png/width200.png 200w,/content/dam/onexp/us/en/homepage/sprite-squad-anta-claus-tile-dt.png/width380.png 380w,/content/dam/onexp/us/en/homepage/sprite-squad-anta-claus-tile-dt.png/width500.png 500w,/content/dam/onexp/us/en/homepage/sprite-squad-anta-claus-tile-dt.png/width767.png 767w,/content/dam/onexp/us/en/homepage/sprite-squad-anta-claus-tile-dt.png/width1024.png 1024w,/content/dam/onexp/us/en/homepage/sprite-squad-anta-claus-tile-dt.png/width1338.png 1338w,/content/dam/onexp/us/en/homepage/sprite-squad-anta-claus-tile-dt.png/width1960.png 1960w,/content/dam/onexp/us/en/homepage/sprite-squad-anta-claus-tile-dt.png/width2674.png 2674w,/content/dam/onexp/us/en/homepage/sprite-squad-anta-claus-tile-dt.png/width3840.png 3840w" media="(min-width: 1200px)" width="1457" height="1256"/>
+        <source srcset="/content/dam/onexp/us/en/homepage/sprite-squad-anta-claus-tile-mo-v2.png/width100.png 100w,/content/dam/onexp/us/en/homepage/sprite-squad-anta-claus-tile-mo-v2.png/width200.png 200w,/content/dam/onexp/us/en/homepage/sprite-squad-anta-claus-tile-mo-v2.png/width380.png 380w,/content/dam/onexp/us/en/homepage/sprite-squad-anta-claus-tile-mo-v2.png/width500.png 500w,/content/dam/onexp/us/en/homepage/sprite-squad-anta-claus-tile-mo-v2.png/width767.png 767w,/content/dam/onexp/us/en/homepage/sprite-squad-anta-claus-tile-mo-v2.png/width1024.png 1024w,/content/dam/onexp/us/en/homepage/sprite-squad-anta-claus-tile-mo-v2.png/width1338.png 1338w,/content/dam/onexp/us/en/homepage/sprite-squad-anta-claus-tile-mo-v2.png/width1960.png 1960w,/content/dam/onexp/us/en/homepage/sprite-squad-anta-claus-tile-mo-v2.png/width2674.png 2674w,/content/dam/onexp/us/en/homepage/sprite-squad-anta-claus-tile-mo-v2.png/width3840.png 3840w" width="1500" height="1294"/>
+        
+        <img src="/content/dam/onexp/us/en/homepage/sprite-squad-anta-claus-tile-dt.png" loading="lazy" class="cmp-image__image" itemprop="contentUrl" alt/>
+    </picture>
+
+
+        
+    
+    
+    
+</div>
+
+    
+
+</div>
+
+        
+    
+    
+</div>
+
+    
+
+</div>
+<div class="teaser campaign-card content-on-bottom content-on-left"><div id="teaser-c8e377d167" class="cmp-teaser">
+    
+        <div class="cmp-teaser__content">
+            
+    
+
+            
+    <h3 class="cmp-teaser__title">
+        Retro Lime. Back for a limited time
+    </h3>
+
+            
+    <div class="cmp-teaser__description"><p>Diet Coke® Lime is the classic taste you love with a bold citrusy kick. Wrapped in a retro limited-edition can, this throwback flavor is here for a good time, not a long time. So grab it while it’s here, because some things are too good to stay gone.</p>
+</div>
+
+            
+    <div class="cmp-teaser__action-container">
+        
+    <a class="cmp-teaser__action-link" id="teaser-c8e377d167-cta-50051be2bc" data-cmp-data-layer="{&#34;teaser-c8e377d167-cta-50051be2bc&#34;:{&#34;@type&#34;:&#34;cep/components/teaser/cta&#34;,&#34;dc:title&#34;:&#34;Learn More&#34;,&#34;xdm:linkURL&#34;:&#34;/us/en/brands/diet-coke/products#diet-coke-lime&#34;}}" data-cmp-clickable href="/us/en/brands/diet-coke/products#diet-coke-lime">Learn More</a>
+
+    </div>
+
+        </div>
+        
+        
+    <div class="cmp-teaser__image"><div id="teaser-c8e377d167-image" data-cmp-data-layer="{&#34;teaser-c8e377d167-image&#34;:{&#34;@type&#34;:&#34;cep/components/adaptiveImage&#34;,&#34;repo:modifyDate&#34;:&#34;2025-10-31T10:57:52Z&#34;,&#34;image&#34;:{&#34;repo:id&#34;:&#34;2acc3891-27fc-4e9b-b424-cb815cf80ba5&#34;,&#34;repo:modifyDate&#34;:&#34;2025-10-31T10:54:49Z&#34;,&#34;@type&#34;:&#34;image/png&#34;,&#34;repo:path&#34;:&#34;/content/dam/onexp/us/en/homepage/diet-coke-lime-right-tile.png&#34;,&#34;repo:mobile:path&#34;:&#34;/content/dam/onexp/us/en/homepage/diet-coke-lime-mo-top-tile.png&#34;}}}" class="cmp-adaptive-image cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+    
+        
+    <picture>
+        <source srcset="/content/dam/onexp/us/en/homepage/diet-coke-lime-right-tile.png/width100.png 100w,/content/dam/onexp/us/en/homepage/diet-coke-lime-right-tile.png/width200.png 200w,/content/dam/onexp/us/en/homepage/diet-coke-lime-right-tile.png/width380.png 380w,/content/dam/onexp/us/en/homepage/diet-coke-lime-right-tile.png/width500.png 500w,/content/dam/onexp/us/en/homepage/diet-coke-lime-right-tile.png/width767.png 767w,/content/dam/onexp/us/en/homepage/diet-coke-lime-right-tile.png/width1024.png 1024w,/content/dam/onexp/us/en/homepage/diet-coke-lime-right-tile.png/width1338.png 1338w,/content/dam/onexp/us/en/homepage/diet-coke-lime-right-tile.png/width1960.png 1960w,/content/dam/onexp/us/en/homepage/diet-coke-lime-right-tile.png/width2674.png 2674w,/content/dam/onexp/us/en/homepage/diet-coke-lime-right-tile.png/width3840.png 3840w" media="(min-width: 1200px)" width="1312" height="1048"/>
+        <source srcset="/content/dam/onexp/us/en/homepage/diet-coke-lime-mo-top-tile.png/width100.png 100w,/content/dam/onexp/us/en/homepage/diet-coke-lime-mo-top-tile.png/width200.png 200w,/content/dam/onexp/us/en/homepage/diet-coke-lime-mo-top-tile.png/width380.png 380w,/content/dam/onexp/us/en/homepage/diet-coke-lime-mo-top-tile.png/width500.png 500w,/content/dam/onexp/us/en/homepage/diet-coke-lime-mo-top-tile.png/width767.png 767w,/content/dam/onexp/us/en/homepage/diet-coke-lime-mo-top-tile.png/width1024.png 1024w,/content/dam/onexp/us/en/homepage/diet-coke-lime-mo-top-tile.png/width1338.png 1338w,/content/dam/onexp/us/en/homepage/diet-coke-lime-mo-top-tile.png/width1960.png 1960w,/content/dam/onexp/us/en/homepage/diet-coke-lime-mo-top-tile.png/width2674.png 2674w,/content/dam/onexp/us/en/homepage/diet-coke-lime-mo-top-tile.png/width3840.png 3840w" width="981" height="786"/>
+        
+        <img src="/content/dam/onexp/us/en/homepage/diet-coke-lime-right-tile.png" loading="lazy" class="cmp-image__image" itemprop="contentUrl" alt/>
+    </picture>
+
+
+        
+    
+    
+    
+</div>
+
+    
+
+</div>
+
+        
+    
+    
+</div>
+
+    
+
+</div>
+<div class="title">
+<div data-cmp-data-layer="{&#34;title-ecd64db34a&#34;:{&#34;@type&#34;:&#34;cep/components/title&#34;,&#34;repo:modifyDate&#34;:&#34;2025-01-07T16:58:13Z&#34;,&#34;dc:title&#34;:&#34;More from Coca‑Cola®&#34;}}" id="title-ecd64db34a" class="cmp-title">
+    <h2 class="cmp-title__text">More from Coca‑Cola®</h2>
+</div>
+
+    
+
+</div>
+<div class="carousel panelcontainer carousel--card-secondary">
+<div id="carousel-6dcb0d15cd" class="cmp-carousel" role="group" aria-live="polite" aria-roledescription="carousel" data-cmp-is="carousel" data-cmp-delay="5000" data-cmp-data-layer="{&#34;carousel-6dcb0d15cd&#34;:{&#34;shownItems&#34;:[&#34;carousel-6dcb0d15cd-item-64dd282e78&#34;],&#34;@type&#34;:&#34;cep/components/carousel&#34;,&#34;repo:modifyDate&#34;:&#34;2025-10-07T18:33:21Z&#34;}}" data-placeholder-text="false">
+    
+    <div class="cmp-carousel__content" aria-atomic="false" aria-live="polite">
+        <div id="carousel-6dcb0d15cd-item-64dd282e78-tabpanel" class="cmp-carousel__item cmp-carousel__item--active" role="tabpanel" aria-labelledby="carousel-6dcb0d15cd-item-64dd282e78-tab" aria-roledescription="slide" aria-label="Slide 1 of 5" data-cmp-data-layer="{&#34;carousel-6dcb0d15cd-item-64dd282e78&#34;:{&#34;@type&#34;:&#34;cep/components/carousel/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-09-17T19:22:25Z&#34;,&#34;dc:title&#34;:&#34;you plus +one&#34;}}" data-cmp-hook-carousel="item"><div class="teaser content-card"><div id="teaser-64dd282e78" class="cmp-teaser">
+    
+        <div class="cmp-teaser__content">
+            
+    
+
+            
+    <h3 class="cmp-teaser__title">
+        you plus +one
+    </h3>
+
+            
+    <div class="cmp-teaser__description"><p>Have you downloaded yet? The &#43;one app brings the universe of Coca&#x2011;Cola® into the palm of your hand. Start earning rewards today!</p>
+</div>
+
+            
+    <div class="cmp-teaser__action-container">
+        
+    <a class="cmp-teaser__action-link" id="teaser-64dd282e78-cta-278f96fa93" data-cmp-data-layer="{&#34;teaser-64dd282e78-cta-278f96fa93&#34;:{&#34;@type&#34;:&#34;cep/components/teaser/cta&#34;,&#34;dc:title&#34;:&#34;Download Now&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.coca-cola.com/us/en/apps?redirect=true&#34;}}" data-cmp-clickable href="https://www.coca-cola.com/us/en/apps?redirect=true" target="_blank">Download Now</a>
+
+    </div>
+
+        </div>
+        
+        
+    <div class="cmp-teaser__image"><div id="teaser-64dd282e78-image" data-cmp-data-layer="{&#34;teaser-64dd282e78-image&#34;:{&#34;@type&#34;:&#34;cep/components/adaptiveImage&#34;,&#34;repo:modifyDate&#34;:&#34;2024-09-17T19:22:25Z&#34;,&#34;image&#34;:{&#34;repo:id&#34;:&#34;6ae0cab6-79f1-40bf-83fd-918fa26e2e9f&#34;,&#34;repo:modifyDate&#34;:&#34;2024-07-25T10:36:50Z&#34;,&#34;@type&#34;:&#34;image/jpeg&#34;,&#34;repo:path&#34;:&#34;/content/dam/onexp/us/en/homepage/plusone-card.jpg&#34;,&#34;repo:mobile:path&#34;:&#34;/content/dam/onexp/us/en/homepage/ko-onexp-meta-image.jpg&#34;}}}" class="cmp-adaptive-image cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+    
+        
+    <picture>
+        
+        
+        <source srcset="/content/dam/onexp/us/en/homepage/plusone-card.jpg/width100.jpg 100w,/content/dam/onexp/us/en/homepage/plusone-card.jpg/width200.jpg 200w,/content/dam/onexp/us/en/homepage/plusone-card.jpg/width380.jpg 380w,/content/dam/onexp/us/en/homepage/plusone-card.jpg/width500.jpg 500w,/content/dam/onexp/us/en/homepage/plusone-card.jpg/width767.jpg 767w,/content/dam/onexp/us/en/homepage/plusone-card.jpg/width1024.jpg 1024w,/content/dam/onexp/us/en/homepage/plusone-card.jpg/width1338.jpg 1338w,/content/dam/onexp/us/en/homepage/plusone-card.jpg/width1960.jpg 1960w,/content/dam/onexp/us/en/homepage/plusone-card.jpg/width2674.jpg 2674w,/content/dam/onexp/us/en/homepage/plusone-card.jpg/width3840.jpg 3840w" width="1088" height="816"/>
+        <img src="/content/dam/onexp/us/en/homepage/plusone-card.jpg" loading="lazy" class="cmp-image__image" itemprop="contentUrl" alt="download the Coca-Cola +one app"/>
+    </picture>
+
+
+        
+    
+    
+    
+</div>
+
+    
+
+</div>
+
+        
+    
+    
+</div>
+
+    
+
+</div>
+</div>
+<div id="carousel-6dcb0d15cd-item-68a97811b5-tabpanel" class="cmp-carousel__item" role="tabpanel" aria-labelledby="carousel-6dcb0d15cd-item-68a97811b5-tab" aria-roledescription="slide" aria-label="Slide 2 of 5" data-cmp-data-layer="{&#34;carousel-6dcb0d15cd-item-68a97811b5&#34;:{&#34;@type&#34;:&#34;cep/components/carousel/item&#34;,&#34;repo:modifyDate&#34;:&#34;2025-05-20T17:59:40Z&#34;,&#34;dc:title&#34;:&#34;wocc&#34;}}" data-cmp-hook-carousel="item"><div class="teaser content-card"><div id="teaser-68a97811b5" class="cmp-teaser">
+    
+        <div class="cmp-teaser__content">
+            
+    
+
+            
+    <h3 class="cmp-teaser__title">
+        New Exhibit at World of Coca&#x2011;Cola
+    </h3>
+
+            
+    <div class="cmp-teaser__description"><p>Experience the magic of Coca‑Cola&#39;s history like never before—step into Coca‑Cola Stories at World of Coca‑Cola.</p>
+</div>
+
+            
+    <div class="cmp-teaser__action-container">
+        
+    <a class="cmp-teaser__action-link" id="teaser-68a97811b5-cta-88b4b2282f" data-cmp-data-layer="{&#34;teaser-68a97811b5-cta-88b4b2282f&#34;:{&#34;@type&#34;:&#34;cep/components/teaser/cta&#34;,&#34;dc:title&#34;:&#34;Learn More&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.worldofcoca-cola.com/explore-inside/explore-coke-stories&#34;}}" data-cmp-clickable href="https://www.worldofcoca-cola.com/explore-inside/explore-coke-stories" target="_blank">Learn More</a>
+
+    </div>
+
+        </div>
+        
+        
+    <div class="cmp-teaser__image"><div id="teaser-68a97811b5-image" data-cmp-data-layer="{&#34;teaser-68a97811b5-image&#34;:{&#34;@type&#34;:&#34;cep/components/adaptiveImage&#34;,&#34;repo:modifyDate&#34;:&#34;2025-05-20T17:59:40Z&#34;,&#34;image&#34;:{&#34;repo:id&#34;:&#34;a9fdedb4-1c72-4854-aa6d-37f5a4cfb61e&#34;,&#34;repo:modifyDate&#34;:&#34;2025-05-20T16:27:21Z&#34;,&#34;@type&#34;:&#34;image/jpeg&#34;,&#34;repo:path&#34;:&#34;/content/dam/onexp/us/en/content-cards/onexp-offerings-wocc.jpg&#34;,&#34;repo:mobile:path&#34;:&#34;/content/dam/onexp/us/en/offerings/landing-page/mobile/coke-offering-wocc.jpg&#34;}}}" class="cmp-adaptive-image cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+    
+        
+    <picture>
+        
+        
+        <source srcset="/content/dam/onexp/us/en/content-cards/onexp-offerings-wocc.jpg/width100.jpg 100w,/content/dam/onexp/us/en/content-cards/onexp-offerings-wocc.jpg/width200.jpg 200w,/content/dam/onexp/us/en/content-cards/onexp-offerings-wocc.jpg/width380.jpg 380w,/content/dam/onexp/us/en/content-cards/onexp-offerings-wocc.jpg/width500.jpg 500w,/content/dam/onexp/us/en/content-cards/onexp-offerings-wocc.jpg/width767.jpg 767w,/content/dam/onexp/us/en/content-cards/onexp-offerings-wocc.jpg/width1024.jpg 1024w,/content/dam/onexp/us/en/content-cards/onexp-offerings-wocc.jpg/width1338.jpg 1338w,/content/dam/onexp/us/en/content-cards/onexp-offerings-wocc.jpg/width1960.jpg 1960w,/content/dam/onexp/us/en/content-cards/onexp-offerings-wocc.jpg/width2674.jpg 2674w,/content/dam/onexp/us/en/content-cards/onexp-offerings-wocc.jpg/width3840.jpg 3840w" width="704" height="528"/>
+        <img src="/content/dam/onexp/us/en/content-cards/onexp-offerings-wocc.jpg" loading="lazy" class="cmp-image__image" itemprop="contentUrl" alt="people viewing images at world of coca-cola"/>
+    </picture>
+
+
+        
+    
+    
+    
+</div>
+
+    
+
+</div>
+
+        
+    
+    
+</div>
+
+    
+
+</div>
+</div>
+<div id="carousel-6dcb0d15cd-item-34e6ac99fc-tabpanel" class="cmp-carousel__item" role="tabpanel" aria-labelledby="carousel-6dcb0d15cd-item-34e6ac99fc-tab" aria-roledescription="slide" aria-label="Slide 3 of 5" data-cmp-data-layer="{&#34;carousel-6dcb0d15cd-item-34e6ac99fc&#34;:{&#34;@type&#34;:&#34;cep/components/carousel/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-06-05T18:15:53Z&#34;,&#34;dc:title&#34;:&#34;freestyle&#34;}}" data-cmp-hook-carousel="item"><div class="teaser content-card"><div id="teaser-34e6ac99fc" class="cmp-teaser">
+    
+        <div class="cmp-teaser__content">
+            
+    
+
+            
+    <h3 class="cmp-teaser__title">
+        Drink up what we’ve dreamed up!
+    </h3>
+
+            
+    <div class="cmp-teaser__description"><p>Coca&#x2011;Cola Freestyle gives you the freedom to explore, pour, and enjoy your perfect drinks.  </p>
+</div>
+
+            
+    <div class="cmp-teaser__action-container">
+        
+    <a class="cmp-teaser__action-link" id="teaser-34e6ac99fc-cta-8e6c02888d" data-cmp-data-layer="{&#34;teaser-34e6ac99fc-cta-8e6c02888d&#34;:{&#34;@type&#34;:&#34;cep/components/teaser/cta&#34;,&#34;dc:title&#34;:&#34;Explore and Pour&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.coca-colafreestyle.com/&#34;}}" data-cmp-clickable href="https://www.coca-colafreestyle.com/" target="_blank">Explore and Pour</a>
+
+    </div>
+
+        </div>
+        
+        
+    <div class="cmp-teaser__image"><div id="teaser-34e6ac99fc-image" data-cmp-data-layer="{&#34;teaser-34e6ac99fc-image&#34;:{&#34;@type&#34;:&#34;cep/components/adaptiveImage&#34;,&#34;repo:modifyDate&#34;:&#34;2024-06-05T18:15:53Z&#34;,&#34;image&#34;:{&#34;repo:id&#34;:&#34;8dcf5911-6612-486b-8c55-7663eae03b72&#34;,&#34;repo:modifyDate&#34;:&#34;2024-06-05T17:55:55Z&#34;,&#34;@type&#34;:&#34;image/jpeg&#34;,&#34;repo:path&#34;:&#34;/content/dam/onexp/us/en/offerings/landing-page/desktop/coke-offering-freestyle.jpg&#34;,&#34;repo:mobile:path&#34;:&#34;/content/dam/onexp/us/en/offerings/landing-page/mobile/coke-offering-freestyle.jpg&#34;}}}" class="cmp-adaptive-image cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+    
+        
+    <picture>
+        <source srcset="/content/dam/onexp/us/en/offerings/landing-page/desktop/coke-offering-freestyle.jpg/width100.jpg 100w,/content/dam/onexp/us/en/offerings/landing-page/desktop/coke-offering-freestyle.jpg/width200.jpg 200w,/content/dam/onexp/us/en/offerings/landing-page/desktop/coke-offering-freestyle.jpg/width380.jpg 380w,/content/dam/onexp/us/en/offerings/landing-page/desktop/coke-offering-freestyle.jpg/width500.jpg 500w,/content/dam/onexp/us/en/offerings/landing-page/desktop/coke-offering-freestyle.jpg/width767.jpg 767w,/content/dam/onexp/us/en/offerings/landing-page/desktop/coke-offering-freestyle.jpg/width1024.jpg 1024w,/content/dam/onexp/us/en/offerings/landing-page/desktop/coke-offering-freestyle.jpg/width1338.jpg 1338w,/content/dam/onexp/us/en/offerings/landing-page/desktop/coke-offering-freestyle.jpg/width1960.jpg 1960w,/content/dam/onexp/us/en/offerings/landing-page/desktop/coke-offering-freestyle.jpg/width2674.jpg 2674w,/content/dam/onexp/us/en/offerings/landing-page/desktop/coke-offering-freestyle.jpg/width3840.jpg 3840w" media="(min-width: 1200px)" width="704" height="528"/>
+        <source srcset="/content/dam/onexp/us/en/offerings/landing-page/mobile/coke-offering-freestyle.jpg/width100.jpg 100w,/content/dam/onexp/us/en/offerings/landing-page/mobile/coke-offering-freestyle.jpg/width200.jpg 200w,/content/dam/onexp/us/en/offerings/landing-page/mobile/coke-offering-freestyle.jpg/width380.jpg 380w,/content/dam/onexp/us/en/offerings/landing-page/mobile/coke-offering-freestyle.jpg/width500.jpg 500w,/content/dam/onexp/us/en/offerings/landing-page/mobile/coke-offering-freestyle.jpg/width767.jpg 767w,/content/dam/onexp/us/en/offerings/landing-page/mobile/coke-offering-freestyle.jpg/width1024.jpg 1024w,/content/dam/onexp/us/en/offerings/landing-page/mobile/coke-offering-freestyle.jpg/width1338.jpg 1338w,/content/dam/onexp/us/en/offerings/landing-page/mobile/coke-offering-freestyle.jpg/width1960.jpg 1960w,/content/dam/onexp/us/en/offerings/landing-page/mobile/coke-offering-freestyle.jpg/width2674.jpg 2674w,/content/dam/onexp/us/en/offerings/landing-page/mobile/coke-offering-freestyle.jpg/width3840.jpg 3840w" width="654" height="491"/>
+        
+        <img src="/content/dam/onexp/us/en/offerings/landing-page/desktop/coke-offering-freestyle.jpg" loading="lazy" class="cmp-image__image" itemprop="contentUrl" alt="coca-cola freestyle machine with colors"/>
+    </picture>
+
+
+        
+    
+    
+    
+</div>
+
+    
+
+</div>
+
+        
+    
+    
+</div>
+
+    
+
+</div>
+</div>
+<div id="carousel-6dcb0d15cd-item-d27c5b2a12-tabpanel" class="cmp-carousel__item" role="tabpanel" aria-labelledby="carousel-6dcb0d15cd-item-d27c5b2a12-tab" aria-roledescription="slide" aria-label="Slide 4 of 5" data-cmp-data-layer="{&#34;carousel-6dcb0d15cd-item-d27c5b2a12&#34;:{&#34;@type&#34;:&#34;cep/components/carousel/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-06-05T18:36:30Z&#34;,&#34;dc:title&#34;:&#34;vending&#34;}}" data-cmp-hook-carousel="item"><div class="teaser content-card"><div id="teaser-d27c5b2a12" class="cmp-teaser">
+    
+        <div class="cmp-teaser__content">
+            
+    
+
+            
+    <h3 class="cmp-teaser__title">
+        Coca&#x2011;Cola Vending
+    </h3>
+
+            
+    <div class="cmp-teaser__description"><p>Each time you make a purchase with your mobile wallet at select Coca‑Cola vending machines, you’ll be one step closer to earning a drink reward. </p>
+</div>
+
+            
+    <div class="cmp-teaser__action-container">
+        
+    <a class="cmp-teaser__action-link" id="teaser-d27c5b2a12-cta-5b0fffede1" data-cmp-data-layer="{&#34;teaser-d27c5b2a12-cta-5b0fffede1&#34;:{&#34;@type&#34;:&#34;cep/components/teaser/cta&#34;,&#34;dc:title&#34;:&#34;Start Earning Today&#34;,&#34;xdm:linkURL&#34;:&#34;/us/en/offerings/vending.html&#34;}}" data-cmp-clickable href="/us/en/offerings/vending">Start Earning Today</a>
+
+    </div>
+
+        </div>
+        
+        
+    <div class="cmp-teaser__image"><div id="teaser-d27c5b2a12-image" data-cmp-data-layer="{&#34;teaser-d27c5b2a12-image&#34;:{&#34;@type&#34;:&#34;cep/components/adaptiveImage&#34;,&#34;repo:modifyDate&#34;:&#34;2024-06-05T18:36:30Z&#34;,&#34;xdm:linkURL&#34;:&#34;/us/en/offerings/vending.html&#34;,&#34;image&#34;:{&#34;repo:id&#34;:&#34;ea4e7f15-e162-4a00-b413-5d2db72f827f&#34;,&#34;repo:modifyDate&#34;:&#34;2024-06-05T18:00:13Z&#34;,&#34;@type&#34;:&#34;image/jpeg&#34;,&#34;repo:path&#34;:&#34;/content/dam/onexp/us/en/offerings/landing-page/desktop/coke-offering-vending.jpg&#34;,&#34;repo:mobile:path&#34;:&#34;/content/dam/onexp/us/en/offerings/landing-page/mobile/coke-offering-vending.jpg&#34;}}}" class="cmp-adaptive-image cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+    
+        
+    <picture>
+        <source srcset="/content/dam/onexp/us/en/offerings/landing-page/desktop/coke-offering-vending.jpg/width100.jpg 100w,/content/dam/onexp/us/en/offerings/landing-page/desktop/coke-offering-vending.jpg/width200.jpg 200w,/content/dam/onexp/us/en/offerings/landing-page/desktop/coke-offering-vending.jpg/width380.jpg 380w,/content/dam/onexp/us/en/offerings/landing-page/desktop/coke-offering-vending.jpg/width500.jpg 500w,/content/dam/onexp/us/en/offerings/landing-page/desktop/coke-offering-vending.jpg/width767.jpg 767w,/content/dam/onexp/us/en/offerings/landing-page/desktop/coke-offering-vending.jpg/width1024.jpg 1024w,/content/dam/onexp/us/en/offerings/landing-page/desktop/coke-offering-vending.jpg/width1338.jpg 1338w,/content/dam/onexp/us/en/offerings/landing-page/desktop/coke-offering-vending.jpg/width1960.jpg 1960w,/content/dam/onexp/us/en/offerings/landing-page/desktop/coke-offering-vending.jpg/width2674.jpg 2674w,/content/dam/onexp/us/en/offerings/landing-page/desktop/coke-offering-vending.jpg/width3840.jpg 3840w" media="(min-width: 1200px)" width="704" height="528"/>
+        <source srcset="/content/dam/onexp/us/en/offerings/landing-page/mobile/coke-offering-vending.jpg/width100.jpg 100w,/content/dam/onexp/us/en/offerings/landing-page/mobile/coke-offering-vending.jpg/width200.jpg 200w,/content/dam/onexp/us/en/offerings/landing-page/mobile/coke-offering-vending.jpg/width380.jpg 380w,/content/dam/onexp/us/en/offerings/landing-page/mobile/coke-offering-vending.jpg/width500.jpg 500w,/content/dam/onexp/us/en/offerings/landing-page/mobile/coke-offering-vending.jpg/width767.jpg 767w,/content/dam/onexp/us/en/offerings/landing-page/mobile/coke-offering-vending.jpg/width1024.jpg 1024w,/content/dam/onexp/us/en/offerings/landing-page/mobile/coke-offering-vending.jpg/width1338.jpg 1338w,/content/dam/onexp/us/en/offerings/landing-page/mobile/coke-offering-vending.jpg/width1960.jpg 1960w,/content/dam/onexp/us/en/offerings/landing-page/mobile/coke-offering-vending.jpg/width2674.jpg 2674w,/content/dam/onexp/us/en/offerings/landing-page/mobile/coke-offering-vending.jpg/width3840.jpg 3840w" width="654" height="491"/>
+        
+        <img src="/content/dam/onexp/us/en/offerings/landing-page/desktop/coke-offering-vending.jpg" loading="lazy" class="cmp-image__image" itemprop="contentUrl" alt="drinking coca-cola in car"/>
+    </picture>
+
+
+        
+    
+    
+    
+</div>
+
+    
+
+</div>
+
+        
+    
+    
+</div>
+
+    
+
+</div>
+</div>
+<div id="carousel-6dcb0d15cd-item-ff197a4448-tabpanel" class="cmp-carousel__item" role="tabpanel" aria-labelledby="carousel-6dcb0d15cd-item-ff197a4448-tab" aria-roledescription="slide" aria-label="Slide 5 of 5" data-cmp-data-layer="{&#34;carousel-6dcb0d15cd-item-ff197a4448&#34;:{&#34;@type&#34;:&#34;cep/components/carousel/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-06-05T18:20:30Z&#34;,&#34;dc:title&#34;:&#34;refreshing films&#34;}}" data-cmp-hook-carousel="item"><div class="teaser content-card"><div id="teaser-ff197a4448" class="cmp-teaser">
+    
+        <div class="cmp-teaser__content">
+            
+    
+
+            
+    <h3 class="cmp-teaser__title">
+        Coca&#x2011;Cola Refreshing Films
+    </h3>
+
+            
+    <div class="cmp-teaser__description"><p>Coca&#x2011;Cola® Refreshing Films provides students the opportunity to create content for the big screen. </p>
+</div>
+
+            
+    <div class="cmp-teaser__action-container">
+        
+    <a class="cmp-teaser__action-link" id="teaser-ff197a4448-cta-7aae76930d" data-cmp-data-layer="{&#34;teaser-ff197a4448-cta-7aae76930d&#34;:{&#34;@type&#34;:&#34;cep/components/teaser/cta&#34;,&#34;dc:title&#34;:&#34;Check It Out&#34;,&#34;xdm:linkURL&#34;:&#34;/us/en/offerings/refreshing-films.html&#34;}}" data-cmp-clickable href="/us/en/offerings/refreshing-films">Check It Out</a>
+
+    </div>
+
+        </div>
+        
+        
+    <div class="cmp-teaser__image"><div id="teaser-ff197a4448-image" data-cmp-data-layer="{&#34;teaser-ff197a4448-image&#34;:{&#34;@type&#34;:&#34;cep/components/adaptiveImage&#34;,&#34;repo:modifyDate&#34;:&#34;2024-06-05T18:20:30Z&#34;,&#34;xdm:linkURL&#34;:&#34;/us/en/offerings/refreshing-films.html&#34;,&#34;image&#34;:{&#34;repo:id&#34;:&#34;e92c5ce4-235c-494f-a74a-c7db8c8efab5&#34;,&#34;repo:modifyDate&#34;:&#34;2024-06-05T18:00:13Z&#34;,&#34;@type&#34;:&#34;image/jpeg&#34;,&#34;repo:path&#34;:&#34;/content/dam/onexp/us/en/offerings/landing-page/desktop/coke-offering-refreshing-films.jpg&#34;,&#34;repo:mobile:path&#34;:&#34;/content/dam/onexp/us/en/offerings/landing-page/mobile/coke-offering-refreshing-films.jpg&#34;}}}" class="cmp-adaptive-image cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+    
+        
+    <picture>
+        <source srcset="/content/dam/onexp/us/en/offerings/landing-page/desktop/coke-offering-refreshing-films.jpg/width100.jpg 100w,/content/dam/onexp/us/en/offerings/landing-page/desktop/coke-offering-refreshing-films.jpg/width200.jpg 200w,/content/dam/onexp/us/en/offerings/landing-page/desktop/coke-offering-refreshing-films.jpg/width380.jpg 380w,/content/dam/onexp/us/en/offerings/landing-page/desktop/coke-offering-refreshing-films.jpg/width500.jpg 500w,/content/dam/onexp/us/en/offerings/landing-page/desktop/coke-offering-refreshing-films.jpg/width767.jpg 767w,/content/dam/onexp/us/en/offerings/landing-page/desktop/coke-offering-refreshing-films.jpg/width1024.jpg 1024w,/content/dam/onexp/us/en/offerings/landing-page/desktop/coke-offering-refreshing-films.jpg/width1338.jpg 1338w,/content/dam/onexp/us/en/offerings/landing-page/desktop/coke-offering-refreshing-films.jpg/width1960.jpg 1960w,/content/dam/onexp/us/en/offerings/landing-page/desktop/coke-offering-refreshing-films.jpg/width2674.jpg 2674w,/content/dam/onexp/us/en/offerings/landing-page/desktop/coke-offering-refreshing-films.jpg/width3840.jpg 3840w" media="(min-width: 1200px)" width="704" height="528"/>
+        <source srcset="/content/dam/onexp/us/en/offerings/landing-page/mobile/coke-offering-refreshing-films.jpg/width100.jpg 100w,/content/dam/onexp/us/en/offerings/landing-page/mobile/coke-offering-refreshing-films.jpg/width200.jpg 200w,/content/dam/onexp/us/en/offerings/landing-page/mobile/coke-offering-refreshing-films.jpg/width380.jpg 380w,/content/dam/onexp/us/en/offerings/landing-page/mobile/coke-offering-refreshing-films.jpg/width500.jpg 500w,/content/dam/onexp/us/en/offerings/landing-page/mobile/coke-offering-refreshing-films.jpg/width767.jpg 767w,/content/dam/onexp/us/en/offerings/landing-page/mobile/coke-offering-refreshing-films.jpg/width1024.jpg 1024w,/content/dam/onexp/us/en/offerings/landing-page/mobile/coke-offering-refreshing-films.jpg/width1338.jpg 1338w,/content/dam/onexp/us/en/offerings/landing-page/mobile/coke-offering-refreshing-films.jpg/width1960.jpg 1960w,/content/dam/onexp/us/en/offerings/landing-page/mobile/coke-offering-refreshing-films.jpg/width2674.jpg 2674w,/content/dam/onexp/us/en/offerings/landing-page/mobile/coke-offering-refreshing-films.jpg/width3840.jpg 3840w" width="654" height="491"/>
+        
+        <img src="/content/dam/onexp/us/en/offerings/landing-page/desktop/coke-offering-refreshing-films.jpg" loading="lazy" class="cmp-image__image" itemprop="contentUrl" alt="refreshing films"/>
+    </picture>
+
+
+        
+    
+    
+    
+</div>
+
+    
+
+</div>
+
+        
+    
+    
+</div>
+
+    
+
+</div>
+</div>
+
+        
+    <div class="cmp-carousel__actions">
+        <button class="cmp-carousel__action cmp-carousel__action--previous" type="button" aria-label="Previous" data-cmp-hook-carousel="previous">
+            <span class="cmp-carousel__action-icon"></span>
+            <span class="cmp-carousel__action-text">Previous</span>
+        </button>
+        <button class="cmp-carousel__action cmp-carousel__action--next" type="button" aria-label="Next" data-cmp-hook-carousel="next">
+            <span class="cmp-carousel__action-icon"></span>
+            <span class="cmp-carousel__action-text">Next</span>
+        </button>
+        
+        
+    </div>
+
+        <ol class="cmp-carousel__indicators" role="tablist" aria-label="Choose a slide to display" data-cmp-hook-carousel="indicators">
+            <li id="carousel-6dcb0d15cd-item-64dd282e78-tab" class="cmp-carousel__indicator cmp-carousel__indicator--active" role="tab" aria-controls="carousel-6dcb0d15cd-item-64dd282e78-tabpanel" aria-label="Slide 1" data-cmp-hook-carousel="indicator">you plus +one</li>
+<li id="carousel-6dcb0d15cd-item-68a97811b5-tab" class="cmp-carousel__indicator" role="tab" aria-controls="carousel-6dcb0d15cd-item-68a97811b5-tabpanel" aria-label="Slide 2" data-cmp-hook-carousel="indicator">wocc</li>
+<li id="carousel-6dcb0d15cd-item-34e6ac99fc-tab" class="cmp-carousel__indicator" role="tab" aria-controls="carousel-6dcb0d15cd-item-34e6ac99fc-tabpanel" aria-label="Slide 3" data-cmp-hook-carousel="indicator">freestyle</li>
+<li id="carousel-6dcb0d15cd-item-d27c5b2a12-tab" class="cmp-carousel__indicator" role="tab" aria-controls="carousel-6dcb0d15cd-item-d27c5b2a12-tabpanel" aria-label="Slide 4" data-cmp-hook-carousel="indicator">vending</li>
+<li id="carousel-6dcb0d15cd-item-ff197a4448-tab" class="cmp-carousel__indicator" role="tab" aria-controls="carousel-6dcb0d15cd-item-ff197a4448-tabpanel" aria-label="Slide 5" data-cmp-hook-carousel="indicator">refreshing films</li>
+
+        </ol>
+    </div>
+    
+</div>
+</div>
+
+        
+    </div>
+
+</div>
+<div class="container responsivegrid container__content-end">
+
+    
+    
+    
+    
+    <div id="container-e841236ce8" class="cmp-container">
+
+        
+
+        
+        <div class="title">
+<div data-cmp-data-layer="{&#34;title-2462330387&#34;:{&#34;@type&#34;:&#34;cep/components/title&#34;,&#34;repo:modifyDate&#34;:&#34;2022-08-22T10:44:12Z&#34;,&#34;dc:title&#34;:&#34;Explore Our Brands&#34;}}" id="title-2462330387" class="cmp-title">
+    <h2 class="cmp-title__text">Explore Our Brands</h2>
+</div>
+
+    
+
+</div>
+<div class="container responsivegrid brands-list">
+
+    
+    
+    
+    
+    <div id="container-611cc72930" class="cmp-container">
+
+        
+
+        
+        <div class="adaptiveImage image color-variants--primary"><div id="adaptiveImage-882587fb56" data-cmp-data-layer="{&#34;adaptiveImage-882587fb56&#34;:{&#34;@type&#34;:&#34;cep/components/adaptiveImage&#34;,&#34;repo:modifyDate&#34;:&#34;2023-12-11T15:40:48Z&#34;,&#34;xdm:linkURL&#34;:&#34;/us/en/brands/coca-cola.html&#34;,&#34;image&#34;:{&#34;repo:id&#34;:&#34;6a8439c4-228b-41e7-ac76-19508d270d2b&#34;,&#34;repo:modifyDate&#34;:&#34;2023-12-11T15:40:42Z&#34;,&#34;@type&#34;:&#34;image/png&#34;,&#34;repo:path&#34;:&#34;/content/dam/onexp/us/en/homepage/CocaColalogor.png&#34;,&#34;repo:mobile:path&#34;:&#34;/content/dam/onexp/us/en/homepage/ko-onexp-meta-image.jpg&#34;}}}" class="cmp-adaptive-image cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+    <a class="cmp-image__link" data-cmp-clickable href="/us/en/brands/coca-cola">
+        
+    <picture>
+        
+        
+        <source srcset="/content/dam/onexp/us/en/homepage/CocaColalogor.png/width100.png 100w,/content/dam/onexp/us/en/homepage/CocaColalogor.png/width200.png 200w,/content/dam/onexp/us/en/homepage/CocaColalogor.png/width380.png 380w,/content/dam/onexp/us/en/homepage/CocaColalogor.png/width500.png 500w,/content/dam/onexp/us/en/homepage/CocaColalogor.png/width767.png 767w,/content/dam/onexp/us/en/homepage/CocaColalogor.png/width1024.png 1024w,/content/dam/onexp/us/en/homepage/CocaColalogor.png/width1338.png 1338w,/content/dam/onexp/us/en/homepage/CocaColalogor.png/width1960.png 1960w,/content/dam/onexp/us/en/homepage/CocaColalogor.png/width2674.png 2674w,/content/dam/onexp/us/en/homepage/CocaColalogor.png/width3840.png 3840w" width="573" height="180"/>
+        <img src="/content/dam/onexp/us/en/homepage/CocaColalogor.png" loading="lazy" class="cmp-image__image" itemprop="contentUrl" alt="Coca-Cola Logo"/>
+    </picture>
+
+
+        
+    </a>
+    
+    
+</div>
+
+    
+
+</div>
+<div class="adaptiveImage image color-variants--primary"><div id="adaptiveImage-faf125f544" data-cmp-data-layer="{&#34;adaptiveImage-faf125f544&#34;:{&#34;@type&#34;:&#34;cep/components/adaptiveImage&#34;,&#34;repo:modifyDate&#34;:&#34;2023-11-03T19:04:01Z&#34;,&#34;xdm:linkURL&#34;:&#34;/us/en/brands/diet-coke.html&#34;,&#34;image&#34;:{&#34;repo:id&#34;:&#34;d5fb8867-a479-4c86-92b9-4d7e91677cb8&#34;,&#34;repo:modifyDate&#34;:&#34;2023-06-14T15:00:45Z&#34;,&#34;@type&#34;:&#34;image/png&#34;,&#34;repo:path&#34;:&#34;/content/dam/onexp/us/en/brands/diet-coke/en_diet coke_logo_color_471x180.png&#34;,&#34;repo:mobile:path&#34;:&#34;/content/dam/onexp/us/en/homepage/ko-onexp-meta-image.jpg&#34;}}}" class="cmp-adaptive-image cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+    <a class="cmp-image__link" data-cmp-clickable href="/us/en/brands/diet-coke">
+        
+    <picture>
+        
+        
+        <source srcset="/content/dam/onexp/us/en/brands/diet-coke/en_diet%20coke_logo_color_471x180.png/width100.png 100w,/content/dam/onexp/us/en/brands/diet-coke/en_diet%20coke_logo_color_471x180.png/width200.png 200w,/content/dam/onexp/us/en/brands/diet-coke/en_diet%20coke_logo_color_471x180.png/width380.png 380w,/content/dam/onexp/us/en/brands/diet-coke/en_diet%20coke_logo_color_471x180.png/width500.png 500w,/content/dam/onexp/us/en/brands/diet-coke/en_diet%20coke_logo_color_471x180.png/width767.png 767w,/content/dam/onexp/us/en/brands/diet-coke/en_diet%20coke_logo_color_471x180.png/width1024.png 1024w,/content/dam/onexp/us/en/brands/diet-coke/en_diet%20coke_logo_color_471x180.png/width1338.png 1338w,/content/dam/onexp/us/en/brands/diet-coke/en_diet%20coke_logo_color_471x180.png/width1960.png 1960w,/content/dam/onexp/us/en/brands/diet-coke/en_diet%20coke_logo_color_471x180.png/width2674.png 2674w,/content/dam/onexp/us/en/brands/diet-coke/en_diet%20coke_logo_color_471x180.png/width3840.png 3840w" width="471" height="180"/>
+        <img src="/content/dam/onexp/us/en/brands/diet-coke/en_diet%20coke_logo_color_471x180.png" loading="lazy" class="cmp-image__image" itemprop="contentUrl" alt="Diet coke logo"/>
+    </picture>
+
+
+        
+    </a>
+    
+    
+</div>
+
+    
+
+</div>
+<div class="adaptiveImage image color-variants--primary"><div id="adaptiveImage-e9d6442618" data-cmp-data-layer="{&#34;adaptiveImage-e9d6442618&#34;:{&#34;@type&#34;:&#34;cep/components/adaptiveImage&#34;,&#34;repo:modifyDate&#34;:&#34;2023-11-06T21:16:30Z&#34;,&#34;xdm:linkURL&#34;:&#34;/us/en/brands/sprite.html&#34;,&#34;image&#34;:{&#34;repo:id&#34;:&#34;4038d3bd-d74a-4ba8-82c9-6ce85180634c&#34;,&#34;repo:modifyDate&#34;:&#34;2023-06-09T17:31:58Z&#34;,&#34;@type&#34;:&#34;image/png&#34;,&#34;repo:path&#34;:&#34;/content/dam/onexp/us/en/brands/sprite/en_sprite_logo_green-text-only_477x180.png&#34;,&#34;repo:mobile:path&#34;:&#34;/content/dam/onexp/us/en/homepage/ko-onexp-meta-image.jpg&#34;}}}" class="cmp-adaptive-image cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+    <a class="cmp-image__link" data-cmp-clickable href="/us/en/brands/sprite">
+        
+    <picture>
+        
+        
+        <source srcset="/content/dam/onexp/us/en/brands/sprite/en_sprite_logo_green-text-only_477x180.png/width100.png 100w,/content/dam/onexp/us/en/brands/sprite/en_sprite_logo_green-text-only_477x180.png/width200.png 200w,/content/dam/onexp/us/en/brands/sprite/en_sprite_logo_green-text-only_477x180.png/width380.png 380w,/content/dam/onexp/us/en/brands/sprite/en_sprite_logo_green-text-only_477x180.png/width500.png 500w,/content/dam/onexp/us/en/brands/sprite/en_sprite_logo_green-text-only_477x180.png/width767.png 767w,/content/dam/onexp/us/en/brands/sprite/en_sprite_logo_green-text-only_477x180.png/width1024.png 1024w,/content/dam/onexp/us/en/brands/sprite/en_sprite_logo_green-text-only_477x180.png/width1338.png 1338w,/content/dam/onexp/us/en/brands/sprite/en_sprite_logo_green-text-only_477x180.png/width1960.png 1960w,/content/dam/onexp/us/en/brands/sprite/en_sprite_logo_green-text-only_477x180.png/width2674.png 2674w,/content/dam/onexp/us/en/brands/sprite/en_sprite_logo_green-text-only_477x180.png/width3840.png 3840w" width="477" height="180"/>
+        <img src="/content/dam/onexp/us/en/brands/sprite/en_sprite_logo_green-text-only_477x180.png" loading="lazy" class="cmp-image__image" itemprop="contentUrl" alt="Sprite logo"/>
+    </picture>
+
+
+        
+    </a>
+    
+    
+</div>
+
+    
+
+</div>
+<div class="adaptiveImage image color-variants--primary"><div id="adaptiveImage-a5f0c82c4a" data-cmp-data-layer="{&#34;adaptiveImage-a5f0c82c4a&#34;:{&#34;@type&#34;:&#34;cep/components/adaptiveImage&#34;,&#34;repo:modifyDate&#34;:&#34;2023-11-06T16:34:31Z&#34;,&#34;xdm:linkURL&#34;:&#34;/us/en/brands/fanta.html&#34;,&#34;image&#34;:{&#34;repo:id&#34;:&#34;c50b2a31-511d-4e2b-beb1-13de103d5989&#34;,&#34;repo:modifyDate&#34;:&#34;2023-06-09T18:53:51Z&#34;,&#34;@type&#34;:&#34;image/png&#34;,&#34;repo:path&#34;:&#34;/content/dam/onexp/us/en/brands/fanta/en_fanta_logo_colored_319x180_v1.png&#34;,&#34;repo:mobile:path&#34;:&#34;/content/dam/onexp/us/en/homepage/ko-onexp-meta-image.jpg&#34;}}}" class="cmp-adaptive-image cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+    <a class="cmp-image__link" data-cmp-clickable href="/us/en/brands/fanta">
+        
+    <picture>
+        
+        
+        <source srcset="/content/dam/onexp/us/en/brands/fanta/en_fanta_logo_colored_319x180_v1.png/width100.png 100w,/content/dam/onexp/us/en/brands/fanta/en_fanta_logo_colored_319x180_v1.png/width200.png 200w,/content/dam/onexp/us/en/brands/fanta/en_fanta_logo_colored_319x180_v1.png/width380.png 380w,/content/dam/onexp/us/en/brands/fanta/en_fanta_logo_colored_319x180_v1.png/width500.png 500w,/content/dam/onexp/us/en/brands/fanta/en_fanta_logo_colored_319x180_v1.png/width767.png 767w,/content/dam/onexp/us/en/brands/fanta/en_fanta_logo_colored_319x180_v1.png/width1024.png 1024w,/content/dam/onexp/us/en/brands/fanta/en_fanta_logo_colored_319x180_v1.png/width1338.png 1338w,/content/dam/onexp/us/en/brands/fanta/en_fanta_logo_colored_319x180_v1.png/width1960.png 1960w,/content/dam/onexp/us/en/brands/fanta/en_fanta_logo_colored_319x180_v1.png/width2674.png 2674w,/content/dam/onexp/us/en/brands/fanta/en_fanta_logo_colored_319x180_v1.png/width3840.png 3840w" width="319" height="180"/>
+        <img src="/content/dam/onexp/us/en/brands/fanta/en_fanta_logo_colored_319x180_v1.png" loading="lazy" class="cmp-image__image" itemprop="contentUrl" alt="Fanta Logo"/>
+    </picture>
+
+
+        
+    </a>
+    
+    
+</div>
+
+    
+
+</div>
+<div class="adaptiveImage image color-variants--primary"><div id="adaptiveImage-3b388e00fa" data-cmp-data-layer="{&#34;adaptiveImage-3b388e00fa&#34;:{&#34;@type&#34;:&#34;cep/components/adaptiveImage&#34;,&#34;repo:modifyDate&#34;:&#34;2023-12-26T19:03:20Z&#34;,&#34;xdm:linkURL&#34;:&#34;/us/en/brands/smartwater.html&#34;,&#34;image&#34;:{&#34;repo:id&#34;:&#34;3840be91-8c2d-42db-be36-7b590a46d06b&#34;,&#34;repo:modifyDate&#34;:&#34;2023-08-01T12:32:07Z&#34;,&#34;@type&#34;:&#34;image/png&#34;,&#34;repo:path&#34;:&#34;/content/dam/onexp/us/en/brands/smartwater/multi-variant/v2/SW_wordmarks_RGB_color_500x180.png&#34;,&#34;repo:mobile:path&#34;:&#34;/content/dam/onexp/us/en/homepage/ko-onexp-meta-image.jpg&#34;}}}" class="cmp-adaptive-image cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+    <a class="cmp-image__link" data-cmp-clickable href="/us/en/brands/smartwater">
+        
+    <picture>
+        
+        
+        <source srcset="/content/dam/onexp/us/en/brands/smartwater/multi-variant/v2/SW_wordmarks_RGB_color_500x180.png/width100.png 100w,/content/dam/onexp/us/en/brands/smartwater/multi-variant/v2/SW_wordmarks_RGB_color_500x180.png/width200.png 200w,/content/dam/onexp/us/en/brands/smartwater/multi-variant/v2/SW_wordmarks_RGB_color_500x180.png/width380.png 380w,/content/dam/onexp/us/en/brands/smartwater/multi-variant/v2/SW_wordmarks_RGB_color_500x180.png/width500.png 500w,/content/dam/onexp/us/en/brands/smartwater/multi-variant/v2/SW_wordmarks_RGB_color_500x180.png/width767.png 767w,/content/dam/onexp/us/en/brands/smartwater/multi-variant/v2/SW_wordmarks_RGB_color_500x180.png/width1024.png 1024w,/content/dam/onexp/us/en/brands/smartwater/multi-variant/v2/SW_wordmarks_RGB_color_500x180.png/width1338.png 1338w,/content/dam/onexp/us/en/brands/smartwater/multi-variant/v2/SW_wordmarks_RGB_color_500x180.png/width1960.png 1960w,/content/dam/onexp/us/en/brands/smartwater/multi-variant/v2/SW_wordmarks_RGB_color_500x180.png/width2674.png 2674w,/content/dam/onexp/us/en/brands/smartwater/multi-variant/v2/SW_wordmarks_RGB_color_500x180.png/width3840.png 3840w" width="500" height="180"/>
+        <img src="/content/dam/onexp/us/en/brands/smartwater/multi-variant/v2/SW_wordmarks_RGB_color_500x180.png" loading="lazy" class="cmp-image__image" itemprop="contentUrl" alt="smartwater"/>
+    </picture>
+
+
+        
+    </a>
+    
+    
+</div>
+
+    
+
+</div>
+<div class="adaptiveImage image color-variants--primary"><div id="adaptiveImage-9860dba61c" data-cmp-data-layer="{&#34;adaptiveImage-9860dba61c&#34;:{&#34;@type&#34;:&#34;cep/components/adaptiveImage&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T18:59:30Z&#34;,&#34;xdm:linkURL&#34;:&#34;/us/en/brands/minute-maid.html&#34;,&#34;image&#34;:{&#34;repo:id&#34;:&#34;4dab2fec-1d93-42ce-9eb2-46eae4f3c113&#34;,&#34;repo:modifyDate&#34;:&#34;2023-10-05T20:31:34Z&#34;,&#34;@type&#34;:&#34;image/png&#34;,&#34;repo:path&#34;:&#34;/content/dam/onexp/us/en/brands/minute-maid/final-logo/Global MinuteMaid Logo.png&#34;,&#34;repo:mobile:path&#34;:&#34;/content/dam/onexp/us/en/homepage/ko-onexp-meta-image.jpg&#34;}}}" class="cmp-adaptive-image cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+    <a class="cmp-image__link" data-cmp-clickable href="/us/en/brands/minute-maid">
+        
+    <picture>
+        
+        
+        <source srcset="/content/dam/onexp/us/en/brands/minute-maid/final-logo/Global%20MinuteMaid%20Logo.png/width100.png 100w,/content/dam/onexp/us/en/brands/minute-maid/final-logo/Global%20MinuteMaid%20Logo.png/width200.png 200w,/content/dam/onexp/us/en/brands/minute-maid/final-logo/Global%20MinuteMaid%20Logo.png/width380.png 380w,/content/dam/onexp/us/en/brands/minute-maid/final-logo/Global%20MinuteMaid%20Logo.png/width500.png 500w,/content/dam/onexp/us/en/brands/minute-maid/final-logo/Global%20MinuteMaid%20Logo.png/width767.png 767w,/content/dam/onexp/us/en/brands/minute-maid/final-logo/Global%20MinuteMaid%20Logo.png/width1024.png 1024w,/content/dam/onexp/us/en/brands/minute-maid/final-logo/Global%20MinuteMaid%20Logo.png/width1338.png 1338w,/content/dam/onexp/us/en/brands/minute-maid/final-logo/Global%20MinuteMaid%20Logo.png/width1960.png 1960w,/content/dam/onexp/us/en/brands/minute-maid/final-logo/Global%20MinuteMaid%20Logo.png/width2674.png 2674w,/content/dam/onexp/us/en/brands/minute-maid/final-logo/Global%20MinuteMaid%20Logo.png/width3840.png 3840w" width="2101" height="2101"/>
+        <img src="/content/dam/onexp/us/en/brands/minute-maid/final-logo/Global%20MinuteMaid%20Logo.png" loading="lazy" class="cmp-image__image" itemprop="contentUrl" alt="Minute maid logo"/>
+    </picture>
+
+
+        
+    </a>
+    
+    
+</div>
+
+    
+
+</div>
+
+        
+    </div>
+
+</div>
+<div class="button button--secondary">
+<a id="button-e85ba47a41" class="cmp-button" data-cmp-clickable data-cmp-data-layer="{&#34;button-e85ba47a41&#34;:{&#34;@type&#34;:&#34;cep/components/button&#34;,&#34;repo:modifyDate&#34;:&#34;2022-08-30T11:04:21Z&#34;,&#34;dc:title&#34;:&#34;View All&#34;,&#34;xdm:linkURL&#34;:&#34;/us/en/brands.html&#34;}}" href="/us/en/brands">
+    
+    
+
+    <span class="cmp-button__text">View All</span>
+</a>
+</div>
+
+        
+    </div>
+
+</div>
+<div class="websiteNameSchema">
+
+
+    <script type="application/ld+json">{"@context":"https://schema.org/","@type":"WebSite","name":"Coca-Cola.com","url":"www.coca-cola.com"}</script>
+    
+    
+
+
+</div>
+<div class="contactInformationSchema">
+
+
+</div>
+
+        
+    </div>
+
+</main>
+<footer class="experiencefragment">
+
+    <div class="cmp-experiencefragment cmp-experiencefragment--footer" data-path="/content/experience-fragments/onexp/us/en/site/footer/master/jcr:content">
+
+
+    
+    
+    
+    
+    <div id="container-124dc94946" class="cmp-container">
+
+        
+
+        
+        <div class="container responsivegrid footer-wrapper">
+
+    
+    
+    
+    
+    <div id="container-34839871f8" class="cmp-container">
+
+        
+
+        
+        <div class="container responsivegrid footer__content">
+
+    
+    
+    
+    
+    <div id="container-982b70b4cf" class="cmp-container">
+
+        
+
+        
+        <div class="separator">
+<div id="separator-5b535adfc8" class="cmp-separator">
+    <hr class="cmp-separator__horizontal-rule"/>
+</div></div>
+<div class="adaptiveImage image footer__logo"><div data-asset-id="d40eb930-dd3b-4006-82f2-ad2ff353eb81" id="adaptiveImage-da2154dbcc" data-cmp-data-layer="{&#34;adaptiveImage-da2154dbcc&#34;:{&#34;@type&#34;:&#34;cep/components/adaptiveImage&#34;,&#34;repo:modifyDate&#34;:&#34;2025-06-18T13:34:07Z&#34;,&#34;image&#34;:{&#34;repo:id&#34;:&#34;d40eb930-dd3b-4006-82f2-ad2ff353eb81&#34;,&#34;repo:modifyDate&#34;:&#34;2023-04-14T14:45:38Z&#34;,&#34;@type&#34;:&#34;image/svg+xml&#34;,&#34;repo:path&#34;:&#34;/content/dam/onexp/global/icons/logo-white-large.svg&#34;}}}" class="cmp-adaptive-image cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+    
+        
+    <picture>
+        
+        
+        <source/>
+        <img src="/content/dam/onexp/global/icons/logo-white-large.svg" loading="lazy" class="cmp-image__image" itemprop="contentUrl" alt="The Coca Cola Company Logo"/>
+    </picture>
+
+
+        
+    
+    
+    
+</div>
+
+    
+
+</div>
+<div class="container responsivegrid footer__navigation">
+
+    
+    
+    
+    
+    <div id="container-08255cfd4e" class="cmp-container">
+
+        
+
+        
+        <div class="text footer__mobile-accordion">
+<div data-cmp-data-layer="{&#34;text-cd8a651f3e&#34;:{&#34;@type&#34;:&#34;cep/components/text&#34;,&#34;repo:modifyDate&#34;:&#34;2025-09-16T14:00:41Z&#34;,&#34;xdm:text&#34;:&#34;&lt;h4>Help&lt;/h4>\r\n&lt;ul>\r\n&lt;li>&lt;a href=\&#34;#signUp\&#34;>Sign-up&lt;/a>&lt;/li>\r\n&lt;li>&lt;a href=\&#34;#login\&#34;>Login&lt;/a>&lt;/li>\r\n&lt;li>&lt;a href=\&#34;/content/onexp/us/en/about-us/faq.html\&#34;>FAQs&lt;/a>&lt;/li>\r\n&lt;li>&lt;a href=\&#34;/content/onexp/us/en/sitemap.html\&#34; target=\&#34;_self\&#34; rel=\&#34;noopener noreferrer\&#34;>Sitemap&lt;/a>&lt;/li>\r\n&lt;li>&lt;a href=\&#34;/content/onexp/us/en/about-us/contact-us.html\&#34; target=\&#34;_self\&#34; rel=\&#34;noopener noreferrer\&#34;>Contact Us&lt;/a>&lt;/li>\r\n&lt;li>&lt;a href=\&#34;https://www.coca-colastore.com/sales/guest/form/\&#34; target=\&#34;_blank\&#34; rel=\&#34;noopener noreferrer\&#34;>Order Status&lt;/a>&lt;/li>\r\n&lt;li>&lt;a href=\&#34;https://www.coca-colastore.com/shipping-information\&#34; target=\&#34;_blank\&#34; rel=\&#34;noopener noreferrer\&#34;>Shipping&lt;/a>&lt;/li>\r\n&lt;/ul>\r\n&#34;}}" id="text-cd8a651f3e" class="cmp-text">
+    <h4>Help</h4>
+<ul><li><a href="#signUp">Sign-up</a></li><li><a href="#login">Login</a></li><li><a href="/us/en/about-us/faq">FAQs</a></li><li><a href="/us/en/sitemap" target="_self" rel="noopener noreferrer">Sitemap</a></li><li><a href="/us/en/about-us/contact-us" target="_self" rel="noopener noreferrer">Contact Us</a></li><li><a href="https://www.coca-colastore.com/sales/guest/form/" target="_blank" rel="noopener noreferrer">Order Status</a></li><li><a href="https://www.coca-colastore.com/shipping-information" target="_blank" rel="noopener noreferrer">Shipping</a></li></ul>
+
+</div>
+
+    
+
+</div>
+<div class="text footer__mobile-accordion">
+<div data-cmp-data-layer="{&#34;text-d3008f5379&#34;:{&#34;@type&#34;:&#34;cep/components/text&#34;,&#34;repo:modifyDate&#34;:&#34;2024-06-17T16:50:33Z&#34;,&#34;xdm:text&#34;:&#34;&lt;h4>Shop &amp;amp; Visit&lt;/h4>\r\n&lt;ul>\r\n&lt;li>&lt;a title=\&#34;https://www.coca-colastore.com/\&#34; href=\&#34;https://www.coca-colastore.com/\&#34; target=\&#34;_blank\&#34; rel=\&#34;noopener noreferrer\&#34;>Coca‑Cola Store Online&lt;/a>&lt;/li>\r\n&lt;li>&lt;a title=\&#34;https://intl.cokestore.com/\&#34; href=\&#34;https://intl.cokestore.com/\&#34; target=\&#34;_blank\&#34; rel=\&#34;noopener noreferrer\&#34;>Coca‑Cola Int&#39;l Store Online&lt;/a>&lt;/li>\r\n&lt;li>&lt;a title=\&#34;https://www.coca-colastore.com/retail/atlanta/\&#34; href=\&#34;https://www.coca-colastore.com/retail/atlanta/\&#34; target=\&#34;_blank\&#34; rel=\&#34;noopener noreferrer\&#34;>Coca‑Cola Store Atlanta&lt;/a>&lt;/li>\r\n&lt;li>&lt;a title=\&#34;https://www.coca-colastore.com/retail/orlando/\&#34; href=\&#34;https://www.coca-colastore.com/retail/orlando/\&#34; target=\&#34;_blank\&#34; rel=\&#34;noopener noreferrer\&#34;>Coca‑Cola Store Orlando&lt;/a>&lt;/li>\r\n&lt;li>&lt;a title=\&#34;https://www.coca-colastore.com/retail/las-vegas/\&#34; href=\&#34;https://www.coca-colastore.com/retail/las-vegas/\&#34; target=\&#34;_blank\&#34; rel=\&#34;noopener noreferrer\&#34;>Coca‑Cola Store Las Vegas&lt;/a>&lt;/li>\r\n&lt;li>&lt;a href=\&#34;https://www.worldofcoca-cola.com/\&#34; target=\&#34;_blank\&#34; rel=\&#34;noopener noreferrer\&#34;>World of Coca-Cola Attraction&lt;/a>&lt;/li>\r\n&lt;li>&lt;a href=\&#34;https://play.google.com/store/apps/details?id=com.coca_cola.android.ccnamobileapp\&#34; target=\&#34;_blank\&#34; rel=\&#34;noopener noreferrer\&#34;>Android App&lt;/a>&lt;/li>\r\n&lt;li>&lt;a href=\&#34;https://apps.apple.com/us/app/coca-cola-usa/id1310675636\&#34; target=\&#34;_blank\&#34; rel=\&#34;noopener noreferrer\&#34;>Apple App&lt;/a>&lt;/li>\r\n&lt;/ul>\r\n&#34;}}" id="text-d3008f5379" class="cmp-text">
+    <h4>Shop &amp; Visit</h4>
+<ul><li><a title="https://www.coca-colastore.com/" href="https://www.coca-colastore.com/" target="_blank" rel="noopener noreferrer">Coca‑Cola Store Online</a></li><li><a title="https://intl.cokestore.com/" href="https://intl.cokestore.com/" target="_blank" rel="noopener noreferrer">Coca‑Cola Int&#39;l Store Online</a></li><li><a title="https://www.coca-colastore.com/retail/atlanta/" href="https://www.coca-colastore.com/retail/atlanta/" target="_blank" rel="noopener noreferrer">Coca‑Cola Store Atlanta</a></li><li><a title="https://www.coca-colastore.com/retail/orlando/" href="https://www.coca-colastore.com/retail/orlando/" target="_blank" rel="noopener noreferrer">Coca‑Cola Store Orlando</a></li><li><a title="https://www.coca-colastore.com/retail/las-vegas/" href="https://www.coca-colastore.com/retail/las-vegas/" target="_blank" rel="noopener noreferrer">Coca‑Cola Store Las Vegas</a></li><li><a href="https://www.worldofcoca-cola.com/" target="_blank" rel="noopener noreferrer">World of Coca&#x2011;Cola Attraction</a></li><li><a href="https://play.google.com/store/apps/details?id&#61;com.coca_cola.android.ccnamobileapp" target="_blank" rel="noopener noreferrer">Android App</a></li><li><a href="https://apps.apple.com/us/app/coca-cola-usa/id1310675636" target="_blank" rel="noopener noreferrer">Apple App</a></li></ul>
+
+</div>
+
+    
+
+</div>
+<div class="text footer__mobile-accordion">
+<div data-cmp-data-layer="{&#34;text-b9a46e3835&#34;:{&#34;@type&#34;:&#34;cep/components/text&#34;,&#34;repo:modifyDate&#34;:&#34;2024-07-19T12:37:32Z&#34;,&#34;xdm:text&#34;:&#34;&lt;h4>Legal&lt;/h4>\r\n&lt;ul>\r\n&lt;li>&lt;a href=\&#34;https://www.coca-colacompany.com/company\&#34; target=\&#34;_blank\&#34; rel=\&#34;noopener noreferrer\&#34;>Company&lt;/a>&lt;/li>\r\n&lt;li>&lt;a href=\&#34;https://www.coca-colacompany.com/careers\&#34; target=\&#34;_blank\&#34; rel=\&#34;noopener noreferrer\&#34;>Careers&lt;/a>&lt;/li>\r\n&lt;li>&lt;a href=\&#34;/content/onexp/us/en/legal/privacy-policy.html\&#34; target=\&#34;_self\&#34; rel=\&#34;noopener noreferrer\&#34;>Privacy Policy&lt;/a>&lt;/li>\r\n&lt;li>&lt;a href=\&#34;/content/onexp/us/en/legal/cookies-policy.html\&#34; target=\&#34;_self\&#34; rel=\&#34;noopener noreferrer\&#34;>Cookies Policy&lt;/a>&lt;/li>\r\n&lt;li>&lt;a href=\&#34;/content/onexp/us/en/legal/coca-cola-rules.html\&#34;>All Promotion Official Rules&lt;/a>&lt;/li>\r\n&lt;li>&lt;a href=\&#34;/us/en/legal/privacy-policy.html#privacy-rights-and-choices-for-specific-jurisdictions\&#34;>Notice At Collection&lt;/a>&lt;/li>\r\n&lt;li>&lt;a href=\&#34;/content/onexp/us/en/legal/do-not-sell-or-share-my-personal-information.html\&#34;>Do Not Sell or Share My Personal Information&lt;/a>&lt;/li>\r\n&lt;li>&lt;a href=\&#34;/content/onexp/us/en/legal/terms-of-service.html\&#34;>Terms of Service&lt;/a>&lt;/li>\r\n&lt;li>&lt;a href=\&#34;#js-open-onetrust-preference-center\&#34;>Cookie Settings&lt;/a>&lt;/li>\r\n&lt;li>&lt;a href=\&#34;/content/onexp/us/en/legal/consumer-health-data-privacy-policy.html\&#34;>Consumer Health&amp;nbsp;Data Privacy Policy&lt;/a>&lt;/li>\r\n&lt;/ul>\r\n&#34;}}" id="text-b9a46e3835" class="cmp-text">
+    <h4>Legal</h4>
+<ul><li><a href="https://www.coca-colacompany.com/company" target="_blank" rel="noopener noreferrer">Company</a></li><li><a href="https://www.coca-colacompany.com/careers" target="_blank" rel="noopener noreferrer">Careers</a></li><li><a href="/us/en/legal/privacy-policy" target="_self" rel="noopener noreferrer">Privacy Policy</a></li><li><a href="/us/en/legal/cookies-policy" target="_self" rel="noopener noreferrer">Cookies Policy</a></li><li><a href="/us/en/legal/coca-cola-rules">All Promotion Official Rules</a></li><li><a href="/us/en/legal/privacy-policy#privacy-rights-and-choices-for-specific-jurisdictions">Notice At Collection</a></li><li><a href="/us/en/legal/do-not-sell-or-share-my-personal-information">Do Not Sell or Share My Personal Information</a></li><li><a href="/us/en/legal/terms-of-service">Terms of Service</a></li><li><a href="#js-open-onetrust-preference-center">Cookie Settings</a></li><li><a href="/us/en/legal/consumer-health-data-privacy-policy">Consumer Health Data Privacy Policy</a></li></ul>
+
+</div>
+
+    
+
+</div>
+
+        
+    </div>
+
+</div>
+<div class="container responsivegrid footer__social-media">
+
+    
+    
+    
+    
+    <div id="container-ec34f28b60" class="cmp-container">
+
+        
+
+        
+        <div class="button footer__button--social-media">
+<a id="button-06fb0efc72" class="cmp-button" aria-label="X" data-cmp-clickable data-cmp-data-layer="{&#34;button-06fb0efc72&#34;:{&#34;@type&#34;:&#34;cep/components/button&#34;,&#34;repo:modifyDate&#34;:&#34;2025-03-04T12:25:26Z&#34;,&#34;dc:title&#34;:&#34;X&#34;,&#34;xdm:linkURL&#34;:&#34;https://x.com/CocaCola&#34;}}" href="https://x.com/CocaCola" target="_blank">
+    
+    <span class="cmp-button__icon cmp-button__icon--x-social" aria-hidden="true"></span>
+
+    <span class="cmp-button__text">X</span>
+</a>
+</div>
+<div class="button footer__button--social-media">
+<a id="button-663c28e16e" class="cmp-button" aria-label="instagram" data-cmp-clickable data-cmp-data-layer="{&#34;button-663c28e16e&#34;:{&#34;@type&#34;:&#34;cep/components/button&#34;,&#34;repo:modifyDate&#34;:&#34;2023-06-26T14:09:01Z&#34;,&#34;dc:title&#34;:&#34;Instagram&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.instagram.com/cocacola/&#34;}}" href="https://www.instagram.com/cocacola/" target="_blank">
+    
+    <span class="cmp-button__icon cmp-button__icon--instagram" aria-hidden="true"></span>
+
+    <span class="cmp-button__text">Instagram</span>
+</a>
+</div>
+<div class="button footer__button--social-media">
+<a id="button-b5228de1f3" class="cmp-button" aria-label="youtube" data-cmp-clickable data-cmp-data-layer="{&#34;button-b5228de1f3&#34;:{&#34;@type&#34;:&#34;cep/components/button&#34;,&#34;repo:modifyDate&#34;:&#34;2023-06-26T14:09:35Z&#34;,&#34;dc:title&#34;:&#34;Youtube&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.youtube.com/user/cocacola&#34;}}" href="https://www.youtube.com/user/cocacola" target="_blank">
+    
+    <span class="cmp-button__icon cmp-button__icon--youtube" aria-hidden="true"></span>
+
+    <span class="cmp-button__text">Youtube</span>
+</a>
+</div>
+<div class="button footer__button--social-media">
+<a id="button-3deb64f5fa" class="cmp-button" aria-label="facebook" data-cmp-clickable data-cmp-data-layer="{&#34;button-3deb64f5fa&#34;:{&#34;@type&#34;:&#34;cep/components/button&#34;,&#34;repo:modifyDate&#34;:&#34;2023-06-26T14:09:58Z&#34;,&#34;dc:title&#34;:&#34;Facebook&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.facebook.com/Coca-Cola/&#34;}}" href="https://www.facebook.com/Coca-Cola/" target="_blank">
+    
+    <span class="cmp-button__icon cmp-button__icon--facebook" aria-hidden="true"></span>
+
+    <span class="cmp-button__text">Facebook</span>
+</a>
+</div>
+
+        
+    </div>
+
+</div>
+<div class="separator">
+<div id="separator-17fb5ce8f3" class="cmp-separator">
+    <hr class="cmp-separator__horizontal-rule"/>
+</div></div>
+<div class="container responsivegrid footer__mobile-apps">
+
+    
+    
+    
+    
+    <div id="container-b0545fdd27" class="cmp-container">
+
+        
+
+        
+        <div class="adaptiveImage image footer__button--mobile-app"><div data-asset-id="6bae434e-04c7-483c-9582-a71da583a2da" id="adaptiveImage-4f60f928bb" data-cmp-data-layer="{&#34;adaptiveImage-4f60f928bb&#34;:{&#34;@type&#34;:&#34;cep/components/adaptiveImage&#34;,&#34;repo:modifyDate&#34;:&#34;2023-11-16T21:48:18Z&#34;,&#34;xdm:linkURL&#34;:&#34;https://apps.apple.com/us/app/coca-cola-usa/id1310675636&#34;,&#34;image&#34;:{&#34;repo:id&#34;:&#34;6bae434e-04c7-483c-9582-a71da583a2da&#34;,&#34;repo:modifyDate&#34;:&#34;2024-05-28T07:27:27Z&#34;,&#34;@type&#34;:&#34;image/png&#34;,&#34;repo:path&#34;:&#34;/content/dam/onexp/global/images/buttons/badge_apple.png&#34;}}}" class="cmp-adaptive-image cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+    <a class="cmp-image__link" data-cmp-clickable href="https://apps.apple.com/us/app/coca-cola-usa/id1310675636" target="_blank">
+        
+    <picture>
+        
+        
+        <source width="216" height="62"/>
+        <img src="/content/dam/onexp/global/images/buttons/badge_apple.png" loading="lazy" class="cmp-image__image" itemprop="contentUrl" alt="Available on the App Store"/>
+    </picture>
+
+
+        
+    </a>
+    
+    
+</div>
+
+    
+
+</div>
+<div class="adaptiveImage image footer__button--mobile-app"><div data-asset-id="6a7368f0-2010-4bcb-bd33-7883d2d44031" id="adaptiveImage-84a226bdd2" data-cmp-data-layer="{&#34;adaptiveImage-84a226bdd2&#34;:{&#34;@type&#34;:&#34;cep/components/adaptiveImage&#34;,&#34;repo:modifyDate&#34;:&#34;2023-11-16T21:47:22Z&#34;,&#34;xdm:linkURL&#34;:&#34;https://play.google.com/store/apps/details?id=com.coca_cola.android.ccnamobileapp&#34;,&#34;image&#34;:{&#34;repo:id&#34;:&#34;6a7368f0-2010-4bcb-bd33-7883d2d44031&#34;,&#34;repo:modifyDate&#34;:&#34;2024-05-28T07:28:07Z&#34;,&#34;@type&#34;:&#34;image/png&#34;,&#34;repo:path&#34;:&#34;/content/dam/onexp/global/images/buttons/badge_google.png&#34;}}}" class="cmp-adaptive-image cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+    <a class="cmp-image__link" data-cmp-clickable href="https://play.google.com/store/apps/details?id=com.coca_cola.android.ccnamobileapp" target="_blank">
+        
+    <picture>
+        
+        
+        <source width="210" height="62"/>
+        <img src="/content/dam/onexp/global/images/buttons/badge_google.png" loading="lazy" class="cmp-image__image" itemprop="contentUrl" alt="Get it on Google Play"/>
+    </picture>
+
+
+        
+    </a>
+    
+    
+</div>
+
+    
+
+</div>
+
+        
+    </div>
+
+</div>
+<div class="text footer__bottom--privacy">
+<div data-cmp-data-layer="{&#34;text-9f71a1ba9a&#34;:{&#34;@type&#34;:&#34;cep/components/text&#34;,&#34;repo:modifyDate&#34;:&#34;2025-01-06T20:39:58Z&#34;,&#34;xdm:text&#34;:&#34;&lt;p>© 2025 &lt;a href=\&#34;https://www.coca-colacompany.com\&#34; target=\&#34;_blank\&#34; rel=\&#34;noopener noreferrer\&#34;>The Coca-Cola Company&lt;/a>. All rights reserved.&lt;/p>\r\n&#34;}}" id="text-9f71a1ba9a" class="cmp-text">
+    <p>© 2025 <a href="https://www.coca-colacompany.com" target="_blank" rel="noopener noreferrer">The Coca&#x2011;Cola Company</a>. All rights reserved.</p>
+
+</div>
+
+    
+
+</div>
+
+        
+    </div>
+
+</div>
+
+        
+    </div>
+
+</div>
+
+        
+    </div>
+
+</div>
+    
+    
+
+    
+
+</footer>
+
+        
+    </div>
+
+</div>
+
+
+
+
+
+    <div id="date-format-config" data-date-format="M/d/yyyy"></div>
+
+
+
+    <div id="side-widget-config" data-mode="loginSignup"></div>
+
+
+<div id="age-gate-config"></div>
+
+<div id="theme-url" data-theme-url="https://www.coca-cola.com/onexp-theme/66773cb5ce1432f713066cf1f808dfc6371bee24475f8988ead42cdfa68c7edb"></div>
+
+
+    <div id="notifications-config" data-aep-region="NAOU" data-aep-environment="PROD" data-public-vapid-key="BBfuVDUsQMQIUAPZ5ExqxN2myoB1bQaaW6MzWwCBgr9m8_eJbWHuheMB6d9qFA53Wiwybie4UKnw639kvLOZD88" data-recaptcha-sitekey="6Lfl5kkpAAAAAKpdv65yETYXI-V9sBOxG38rw3JK"></div>
+
+
+
+
+<div id="labels" data-labels="{&#34;prevLabel&#34;:&#34;Prev&#34;,&#34;loginButtonLabel&#34;:&#34;&#34;,&#34;continueLabel&#34;:&#34;&#34;,&#34;unsupportedBrowserHeader&#34;:&#34;Browser Not Supported&#34;,&#34;carouselPaginationItemLabel&#34;:&#34;Go to slide&#34;,&#34;loginModalHeading&#34;:&#34;&#34;,&#34;liveBadge&#34;:&#34;Live&#34;,&#34;closeButton&#34;:&#34;Close&#34;,&#34;share&#34;:&#34;Share&#34;,&#34;placeholder&#34;:&#34;&#34;,&#34;notificationsPermissionsNotGrantedErrorHeader&#34;:&#34;Permissions not granted&#34;,&#34;dislikeButtonAriaLabel&#34;:&#34;&#34;,&#34;iOSInstructionsDescription&#34;:&#34;\u003col\u003e\n\u003cli\u003eClick on\u0026nbsp;{{ios_share}}\u003c/li\u003e\n\u003cli\u003eChoose \u0026quot;Add to Home Screen\u0026quot;\u003c/li\u003e\n\u003cli\u003eOpen the application from your homescreen\u003c/li\u003e\n\u003cli\u003eClick subscribe again\u003c/li\u003e\n\u003c/ol\u003e\n&#34;,&#34;signupButtonLabel&#34;:&#34;&#34;,&#34;loginModalCloseButtonLabel&#34;:&#34;&#34;,&#34;months&#34;:&#34;&#34;,&#34;notificationsUnknownErrorDescription&#34;:&#34;\u003cp\u003eWe couldn\u0027t subscribe you to push notifications. Please try again / check in another browser.\u003c/p\u003e\n&#34;,&#34;confirmationHeader&#34;:&#34;You\u0027re Subscribed!&#34;,&#34;unknownErrorHeader&#34;:&#34;Unexpected Error Occurred&#34;,&#34;iOSInstructionsImage&#34;:&#34;/content/dam/onexp/global/icons/coke-logo.svg&#34;,&#34;linkCopied&#34;:&#34;Link copied&#34;,&#34;skipLabel&#34;:&#34;&#34;,&#34;notificationsPermissionsNotGrantedErrorDescription&#34;:&#34;\u003cp\u003ePermissions not granted. Subscription cannot be updated. If you want to subscribe, please reset browser permissions first.\u003c/p\u003e&#34;,&#34;copyCodeLabel&#34;:&#34;Copy Code&#34;,&#34;loginModalDescription&#34;:&#34;&#34;,&#34;showMore&#34;:&#34;Show More&#34;,&#34;notificationsUnknownErrorHeader&#34;:&#34;Ups! Something went wrong&#34;,&#34;nextLabel&#34;:&#34;Next&#34;,&#34;days&#34;:&#34;&#34;,&#34;unknownErrorMsgLabel&#34;:&#34;Unexpected error occurred, try again later&#34;,&#34;showLess&#34;:&#34;Show Less&#34;,&#34;likeButtonAriaLabel&#34;:&#34;&#34;,&#34;showModal&#34;:&#34;Show More&#34;,&#34;iOSInstructionsHeader&#34;:&#34;Install the app to receive notifications&#34;,&#34;unsupportedBrowserDescription&#34;:&#34;\u003cp\u003eThis browser doesn\u0027t support notifications. If you opened the page inside Social Media app, please open the page in a standard browser. Please also make sure that you\u0027re running at least iOS 16.4+ / latest Android version.\u003c/p\u003e\n&#34;,&#34;codeClickedLabel&#34;:&#34;Code copied&#34;,&#34;confirmationDescription&#34;:&#34;\u003cp\u003eYou have successfully subscribed to receive notifications.\u003c/p\u003e\n&#34;}"></div>
+
+    
+    
+    <script src="/etc.clientlibs/core/wcm/components/commons/site/clientlibs/container.lc-0a6aff292f5cc42142779cde92054524-lc.min.js"></script>
+<script src="/etc.clientlibs/onexp/clientlibs/clientlib-base.lc-7a24a291d40ac2c0290fc699b9f9a90e-lc.min.js"></script>
+
+
+    
+
+    
+
+    
+
+    
+    <script src="https://www.coca-cola.com/onexp-theme/66773cb5ce1432f713066cf1f808dfc6371bee24475f8988ead42cdfa68c7edb/theme.js" async type="text/javascript"></script>
+    
+    
+
+
+</body>
+</html>
